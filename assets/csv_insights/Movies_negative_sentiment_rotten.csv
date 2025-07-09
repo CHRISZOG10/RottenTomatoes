@@ -1,0 +1,2324 @@
+,movie_title,sentiment,tomatometer_rating
+0,The Lost City,negative,3
+1,Running Scared,negative,5
+2,Ultraviolet,negative,1
+3,Arthur and the Invisibles ,negative,3
+4,Eternal,negative,3
+5,The Mostly Unfabulous Social Life of Ethan Green,negative,4
+6,Dirty,negative,3
+7,Stay Alive,negative,2
+8,Independent Lens,negative,9
+9,All the King's Men,negative,10
+10,Cocaine Cowboys,negative,7
+11,Slipstream,negative,3
+12,The Ten,negative,4
+13,The Happening,negative,2
+14,Fireflies in the Garden,negative,3
+15,The Eye,negative,3
+16,Wild Child,negative,5
+17,Rails & Ties,negative,4
+18,Canvas,negative,8
+19,Saawariya,negative,4
+20,The Informers,negative,2
+21,Guta-yubalja-deul ,negative,5
+22,The Rocker,negative,5
+23,Man in the Chair,negative,6
+24,Body of Lies,negative,6
+25,Shutter,negative,1
+26,The Escapist,negative,7
+27,Red,negative,8
+28,Julia,negative,8
+29,Angel Heart,negative,8
+30,Old Dogs,negative,1
+31,Surrogates,negative,4
+32,Soul Men,negative,5
+33,Igor,negative,4
+34,The Stone Angel,negative,5
+35,Alvin and the Chipmunks: The Squeakquel,negative,3
+36,Push,negative,3
+37,Felon,negative,7
+38,Scar,negative,1
+39,The Proposal,negative,5
+40,Orphan,negative,6
+41,Okuribito ,negative,9
+42,Season of the Witch,negative,2
+43,Grace,negative,8
+44,The Red Baron ,negative,3
+45,Mammoth ,negative,5
+46,Crude,negative,10
+47,Bakjwi ,negative,9
+48,Blood: The Last Vampire,negative,3
+49,Shrink,negative,3
+50,Ong Bak 2,negative,5
+51,Collapse,negative,9
+52,Lottery Ticket,negative,4
+53,Predators,negative,7
+54,The Bad News Bears,negative,10
+55,Black Christmas,negative,8
+56,The Black Hole,negative,4
+57,Der Blaue Engel ,negative,10
+58,Bye Bye Birdie,negative,9
+59,Carrie,negative,10
+60,Cat People,negative,7
+61,Commando,negative,8
+62,Day of the Dead,negative,9
+63,Dracula,negative,10
+64,Fatal Attraction,negative,8
+65,Flash Gordon,negative,9
+66,Frantic,negative,8
+67,The Fury,negative,8
+68,Gallipoli,negative,10
+69,Halloween,negative,10
+70,The Haunting,negative,9
+71,House of Wax,negative,10
+72,In Cold Blood,negative,9
+73,It's Alive,negative,8
+74,The Jazz Singer,negative,2
+75,Little Shop of Horrors,negative,10
+76,Meteor,negative,1
+77,The Mission,negative,7
+78,Near Dark,negative,9
+79,Night of the Living Dead,negative,10
+80,Obsession,negative,8
+81,Pennies From Heaven,negative,9
+82,Pit and the Pendulum ,negative,9
+83,Popeye,negative,7
+84,Promised Land,negative,6
+85,Red Sonja,negative,2
+86,Road House,negative,4
+87,RoboCop,negative,10
+88,Sorcerer,negative,8
+89,The Sunshine Boys,negative,8
+90,Three Amigos!,negative,5
+91,The Time Machine,negative,8
+92,Tommy,negative,8
+93,Twins,negative,5
+94,Village of the Damned,negative,10
+95,The Warriors,negative,10
+96,Mystery Train,negative,9
+97,Revolution,negative,2
+98,Navy Seals,negative,2
+99,102 Dalmatians,negative,4
+100,Gun Crazy ,negative,10
+101,Come and See ,negative,10
+102,Poison,negative,8
+103,Cape Fear,negative,8
+104,The Cutting Edge,negative,6
+105,Deep Cover,negative,9
+106,Cool World,negative,1
+107,Husbands and Wives,negative,10
+108,Unforgiven,negative,10
+109,Cliffhanger,negative,7
+110,The Firm,negative,8
+111,Airborne,negative,3
+112,Gettysburg,negative,8
+113,Fearless,negative,9
+114,The Three Musketeers,negative,3
+115,Junior,negative,4
+116,Street Fighter,negative,2
+117,The Wild Bunch,negative,10
+118,Bad Boys,negative,5
+119,Pocahontas,negative,6
+120,Braveheart,negative,8
+121,To Die For,negative,9
+122,It Takes Two,negative,1
+123,Heavy Metal,negative,7
+124,Broken Arrow,negative,6
+125,Black Sheep,negative,3
+126,The Quest,negative,2
+127,The Last Supper,negative,7
+128,Independence Day,negative,7
+129,The Island of Dr. Moreau,negative,3
+130,Kingpin,negative,6
+131,Jack,negative,2
+132,Freeway,negative,8
+133,House Arrest,negative,2
+134,Selena,negative,7
+135,101 Dalmatians,negative,5
+136,The Crucible,negative,7
+137,Breakdown,negative,9
+138,George of the Jungle,negative,6
+139,The Game,negative,8
+140,Firestorm,negative,2
+141,The Man in the Iron Mask,negative,4
+142,Twilight,negative,7
+143,Hush,negative,2
+144,A Perfect Murder,negative,6
+145,Mafia!,negative,2
+146,Funny Games,negative,7
+147,Soldier,negative,2
+148,Tango,negative,7
+149,The Thin Red Line,negative,9
+150,Life Is Beautiful ,negative,9
+151,Mighty Joe Young,negative,6
+152,Supernova,negative,2
+153,Lost and Found,negative,2
+154,The King and I,negative,2
+155,Payback,negative,6
+156,I'll Be Home for Christmas,negative,3
+157,Jack Frost,negative,2
+158,The Haunting,negative,2
+159,Anna and the King,negative,6
+160,Diamonds,negative,3
+161,Superstar,negative,4
+162,House on Haunted Hill,negative,4
+163,The Bachelor,negative,1
+164,A Dog of Flanders,negative,3
+165,The Celebration ,negative,10
+166,Whatever It Takes,negative,2
+167,Where the Heart Is,negative,4
+168,Committed,negative,5
+169,Screwed,negative,2
+170,Hamlet,negative,6
+171,Gone in 60 Seconds ,negative,3
+172,George Washington,negative,9
+173,The In Crowd,negative,1
+174,The Art of War,negative,2
+175,Bait,negative,3
+176,Duets,negative,3
+177,Beautiful,negative,2
+178,Under Suspicion,negative,5
+179,The Ladies Man,negative,2
+180,Malena,negative,6
+181,Double Take,negative,2
+182,The Pledge,negative,8
+183,Down to Earth,negative,3
+184,Sweet November,negative,2
+185,L.I.E.,negative,9
+186,Driven,negative,2
+187,Brother,negative,5
+188,The Fast and the Furious,negative,6
+189,Pearl Harbor,negative,3
+190,The Others,negative,9
+191,The Wash,negative,1
+192,Collateral Damage,negative,2
+193,Invincible,negative,6
+194,Texas Rangers,negative,1
+195,Behind Enemy Lines,negative,4
+196,Scooby-Doo,negative,4
+197,Crossroads,negative,2
+198,The New Guy,negative,1
+199,The Time Machine,negative,3
+200,Human Nature,negative,5
+201,Enough,negative,3
+202,They,negative,4
+203,All or Nothing,negative,9
+204,Femme Fatale,negative,5
+205,Empire,negative,3
+206,Pinocchio,negative,1
+207,Anger Management,negative,5
+208,Le Divorce,negative,4
+209,Grind,negative,1
+210,The Missing,negative,6
+211,The Company,negative,8
+212,Envy,negative,1
+213,The Punisher,negative,3
+214,Hide and Seek,negative,2
+215,Cursed,negative,2
+216,Appurushîdo ,negative,3
+217,Sahara,negative,4
+218,Crash,negative,8
+219,The Honeymooners,negative,2
+220,Bomb the System,negative,4
+221,Hellbent,negative,5
+222,Kids in America,negative,2
+223,Rent,negative,5
+224,The New World,negative,7
+225,Date Movie,negative,1
+226,Why We Fight,negative,8
+227,London,negative,2
+228,Evil ,negative,7
+229,See No Evil,negative,1
+230,Sleeping Dogs Lie,negative,7
+231,For Your Consideration,negative,6
+232,Free Zone,negative,3
+233,Superhero Movie,negative,2
+234,Unconscious,negative,9
+235,The Invisible,negative,3
+236,Vitus,negative,7
+237,License to Wed,negative,1
+238,Fred Claus,negative,3
+239,Hollywood Dreams,negative,4
+240,The Final Season,negative,3
+241,Amu,negative,9
+242,The Hunting Party,negative,6
+243,Alvin and the Chipmunks,negative,3
+244,Blindness,negative,5
+245,The Haunting in Connecticut,negative,2
+246,The Lovely Bones,negative,4
+247,College,negative,1
+248,Mister Lonely,negative,5
+249,Partition,negative,4
+250,Smart People,negative,5
+251,Deal,negative,1
+252,Chapter 27,negative,2
+253,Lou Reed's Berlin,negative,8
+254,Lakeview Terrace,negative,5
+255,Before the Rains,negative,5
+256,Ballast,negative,10
+257,The Perfect Game,negative,6
+258,Ninja Assassin,negative,3
+259,I Love You Beth Cooper,negative,2
+260,Dorian Gray,negative,5
+261,The Tooth Fairy,negative,2
+262,The Children,negative,8
+263,The Last House on the Left,negative,5
+264,The Three Stooges,negative,6
+265,The Taking of Pelham 1 2 3,negative,6
+266,Obsessed,negative,2
+267,Remember Me,negative,3
+268,What Goes Up,negative,2
+269,Home,negative,10
+270,Furry Vengeance,negative,1
+271,Beyond a Reasonable Doubt,negative,1
+272,Homecoming,negative,1
+273,No Impact Man: The Documentary,negative,9
+274,Five Minutes of Heaven,negative,8
+275,Amreeka,negative,9
+276,I Sell the Dead,negative,8
+277,Fifty Dead Men Walking,negative,9
+278,Art & Copy,negative,6
+279,Triangle ,negative,6
+280,Franklyn,negative,6
+281,Kick-Ass,negative,8
+282,Che: Part One ,negative,7
+283,The Losers,negative,5
+284,13 Hours: The Secret Soldiers Of Benghazi,negative,6
+285,13 Sins,negative,7
+286,13 Tzameti,negative,9
+287,1408,negative,9
+288,1941,negative,5
+289,211,negative,1
+290,My Soul to Take,negative,2
+291,28 Days,negative,4
+292,28 Days Later,negative,9
+293,2 Guns,negative,7
+294,3000 Miles to Graceland,negative,2
+295,30 Days of Night,negative,6
+296,30 Minutes or Less,negative,5
+297,360,negative,3
+298,3 from Hell,negative,6
+299,3 Generations,negative,4
+300,3 Hearts ,negative,9
+301,3 Women,negative,10
+302,47 Meters Down,negative,6
+303,47 Meters Down: Uncaged,negative,5
+304,4 Little Girls,negative,10
+305,51 Birch Street,negative,10
+306,6 Underground,negative,4
+307,88 Minutes,negative,1
+308,8MM,negative,3
+309,A Bad Moms Christmas,negative,4
+310,A Coffee in Berlin,negative,8
+311,A Dangerous Method,negative,8
+312,A Dark Song,negative,10
+313,A Dog's Journey,negative,6
+314,A Dog's Purpose,negative,4
+315,A Glimpse Inside the Mind of Charles Swan III,negative,2
+316,A Good Day To Die Hard,negative,2
+317,A Haunted House 2,negative,1
+318,A Little Bit Of Heaven,negative,1
+319,A Man Escaped ,negative,10
+320,A Man Named Pearl,negative,8
+321,A Night In Old Mexico,negative,5
+322,A Nightmare on Elm Street 5: The Dream Child,negative,4
+323,A Perfect Getaway,negative,7
+324,A Private War,negative,9
+325,A Separation,negative,10
+326,A Single Shot,negative,5
+327,A Smile Like Yours,negative,1
+328,A Street Cat Named Bob,negative,8
+329,A Tale of Two Sisters,negative,9
+330,The A-Team,negative,5
+331,A Vigilante,negative,10
+332,ABCs of Death 2,negative,8
+333,Abduction,negative,1
+334,Aberdeen,negative,9
+335,Abraham Lincoln: Vampire Hunter,negative,4
+336,Accepted,negative,4
+337,Accidental Love,negative,1
+338,Act of Valor,negative,3
+339,Adam Resurrected,negative,4
+340,Adam's Apples,negative,8
+341,Admission,negative,4
+342,Aeon Flux,negative,1
+343,Affliction,negative,9
+344,After,negative,2
+345,After Earth,negative,2
+346,After Innocence,negative,10
+347,After.Life,negative,3
+348,After the Sunset,negative,2
+349,Aftermath ,negative,9
+350,Against the Ropes,negative,2
+351,Aileen: Life and Death of a Serial Killer,negative,9
+352,Airplane!,negative,10
+353,Akira,negative,10
+354,I Saw the Devil,negative,9
+355,Alex & Emma,negative,2
+356,Alex Cross,negative,2
+357,Alexander,negative,2
+358,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",negative,7
+359,Alien,negative,10
+360,Alien Trespass,negative,4
+361,AVP - Alien Vs. Predator,negative,3
+362,Alive Inside,negative,8
+363,All About Steve,negative,1
+364,All About the Benjamins,negative,4
+365,All Is Well ,negative,10
+366,All The King's Men,negative,2
+367,All the Pretty Horses,negative,4
+368,All the Right Moves,negative,7
+369,Almost Christmas,negative,5
+370,Alone with Her,negative,7
+371,Alpha and Omega,negative,2
+372,Alpha Dog,negative,6
+373,Alvin and the Chipmunks: Chipwrecked,negative,2
+374,Always Shine,negative,10
+375,Amanda Knox,negative,9
+376,Amelia,negative,3
+377,America: Imagine the World Without Her,negative,1
+378,American Buffalo,negative,8
+379,American Dreamz,negative,4
+380,Der Amerikanische Freund ,negative,10
+381,American History X,negative,9
+382,American Mary,negative,7
+383,American Pastoral,negative,3
+384,American Reunion,negative,5
+385,An American Werewolf in London,negative,9
+386,America's Heart and Soul,negative,6
+387,Amityville: The Demon,negative,1
+388,Amores Perros,negative,10
+389,Amulet,negative,7
+390,An American Carol,negative,2
+391,An Inconvenient Sequel: Truth To Power,negative,8
+392,Anacondas: The Hunt for the Blood Orchid,negative,3
+393,Analyze That,negative,3
+394,Anamorph,negative,3
+395,Angel Has Fallen,negative,4
+396,Angela's Ashes,negative,6
+397,Angels Wear White,negative,10
+398,Animals,negative,9
+399,Annabelle Comes Home,negative,7
+400,Annabelle: Creation,negative,8
+401,Annie Hall,negative,10
+402,Another 48 Hrs.,negative,3
+403,Another Earth,negative,7
+404,Antebellum,negative,3
+405,Antitrust,negative,3
+406,Any Given Sunday,negative,6
+407,Apollo 18,negative,3
+408,Après vous ,negative,6
+409,Arbitrage,negative,9
+410,The Architect,negative,2
+411,Are You Here,negative,1
+412,Armadillo,negative,10
+413,Jackpot,negative,6
+414,Army of Darkness,negative,8
+415,Arsenal,negative,1
+416,The Art Of The Steal,negative,9
+417,Art School Confidential,negative,4
+418,Arthur,negative,3
+419,Arthur 2: On the Rocks,negative,2
+420,As I Lay Dying,negative,4
+421,Ashes of Time Redux,negative,8
+422,Ask the Dust,negative,4
+423,Ass Backwards,negative,3
+424,At The Devil's Door,negative,5
+425,Atlantic City,negative,10
+426,Atlas Shrugged: Part II,negative,1
+427,Audition ,negative,9
+428,Australia,negative,6
+429,Avengement,negative,9
+430,Aliens vs. Predator: Requiem ,negative,2
+431,A.X.L.,negative,3
+432,Baby Geniuses,negative,1
+433,Baby Mama,negative,7
+434,Babylon A.D.,negative,1
+435,Backcountry,negative,10
+436,Bad Boys for Life,negative,8
+437,Bad Boys II,negative,3
+438,Bad Company,negative,2
+439,Bad Education,negative,9
+440,Bad Education,negative,10
+441,Bad Lieutenant,negative,8
+442,Bad Milo!,negative,7
+443,Bad Moms,negative,6
+444,Bad Reputation,negative,8
+445,Bad Samaritan,negative,6
+446,Bad Santa,negative,8
+447,Bad Santa 2,negative,3
+448,Bad Taste,negative,7
+449,Bad Turn Worse,negative,9
+450,Bait,negative,5
+451,The Last Circus,negative,8
+452,The Ballad of Jack and Rose,negative,5
+453,Ballistic: Ecks vs. Sever,negative,1
+454,Balls of Fury,negative,3
+455,Balzac and the Little Chinese Seamstress,negative,8
+456,The Banger Sisters,negative,5
+457,Bangkok Dangerous,negative,1
+458,Barb Wire,negative,3
+459,Barney's Great Adventure,negative,4
+460,Barnyard,negative,3
+461,Barry,negative,9
+462,Barry Lyndon,negative,10
+463,Bartleby,negative,4
+464,Barton Fink,negative,10
+465,BASEketball,negative,5
+466,Basic,negative,3
+467,Basic Instinct,negative,6
+468,Basic Instinct 2,negative,1
+469,Baskin,negative,8
+470,Batman Forever,negative,4
+471,Batman: The Killing Joke,negative,5
+472,Bats,negative,2
+473,Battle For Terra,negative,5
+474,Battle in Seattle,negative,6
+475,Battle Royale,negative,9
+476,Battlefield Earth,negative,1
+477,Be Kind Rewind,negative,7
+478,The Beach,negative,3
+479,Beastly,negative,3
+480,A Hard Day's Night,negative,10
+481,Beautiful Creatures,negative,4
+482,Beavis and Butt-head Do America,negative,8
+483,Because I Said So,negative,1
+484,Because of Winn-Dixie,negative,6
+485,Becky,negative,8
+486,Bedtime Stories,negative,3
+487,Bee Movie,negative,6
+488,Beetle Queen Conquers Tokyo,negative,10
+489,Behind the Candelabra,negative,10
+490,Behind the Mask: The Rise of Leslie Vernon,negative,8
+491,Being 17 ,negative,10
+492,Being Frank,negative,4
+493,Beirut,negative,9
+494,Bel Ami,negative,3
+495,Belle,negative,9
+496,Below,negative,7
+497,Ben-Hur,negative,9
+498,Benji: Off the Leash!,negative,4
+499,Berberian Sound Studio,negative,9
+500,Bethlehem,negative,8
+501,Between Worlds,negative,4
+502,Beverly Hills Cop III,negative,1
+503,Beverly Hills Ninja,negative,2
+504,Beyond Borders,negative,2
+505,Beyond the Gates,negative,9
+506,Beyond The Reach,negative,4
+507,Bicentennial Man,negative,4
+508,Big Bad Love,negative,5
+509,Big Bad Wolves,negative,8
+510,The Big Bounce,negative,2
+511,Big Daddy,negative,4
+512,Big Eden,negative,7
+513,Big Star: Nothing Can Hurt Me,negative,10
+514,The Big Tease,negative,6
+515,Big Trouble in Little China,negative,8
+516,"Bikram: Yogi, Guru, Predator",negative,10
+517,Bio-Dome,negative,1
+518,Bird Box,negative,7
+519,Birth,negative,4
+520,The Birth of a Nation,negative,10
+521,Bitter Harvest,negative,2
+522,Black '47,negative,8
+523,Black Christmas,negative,2
+524,Black Knight,negative,2
+525,Black Nativity,negative,6
+526,Black Sheep,negative,8
+527,Black Snake Moan,negative,7
+528,Black Sunday,negative,9
+529,Black White + Gray: A Portrait of Sam Wagstaff and Robert Mapplethorpe,negative,9
+530,Blackhat,negative,4
+531,The Blair Witch Project,negative,9
+532,Blame It on Rio,negative,1
+533,Blaze,negative,10
+534,Blazing Saddles,negative,9
+535,Bleak Street ,negative,6
+536,Bleed For This,negative,8
+537,Blitz,negative,5
+538,Blood and Chocolate,negative,2
+539,Blood on Her Name,negative,10
+540,Blood Quantum,negative,10
+541,Blood Simple,negative,10
+542,BloodRayne,negative,1
+543,Bloodshot,negative,4
+544,"Bloody Nose, Empty Pockets",negative,10
+545,Bloody Sunday,negative,10
+546,Blow Out,negative,9
+547,Blue Caprice,negative,9
+548,Blue Ruin,negative,10
+549,Blumhouse's Truth or Dare,negative,2
+550,Boarding Gate,negative,4
+551,Boat Trip,negative,1
+552,Bobby Jones: Stroke of Genius,negative,3
+553,Body of Evidence,negative,1
+554,Bombshell,negative,7
+555,Bombshell: The Hedy Lamarr Story,negative,10
+556,Bones,negative,3
+557,The Boondock Saints,negative,3
+558,The Boondock Saints II: All Saints Day,negative,3
+559,Boricua's Bond,negative,2
+560,Bottle Shock,negative,5
+561,Bounce,negative,6
+562,Boy,negative,9
+563,A Boy and His Dog,negative,8
+564,The Boy in the Striped Pajamas ,negative,7
+565,Boynton Beach Club,negative,7
+566,Boys and Girls,negative,2
+567,Boys Don't Cry,negative,9
+568,Bra Boys,negative,6
+569,Brawl in Cell Block 99,negative,10
+570,Breakfast with Scot,negative,6
+571,Breakin' All the Rules,negative,4
+572,Breaking and Entering,negative,4
+573,Breakthrough,negative,7
+574,Brick Lane,negative,7
+575,Bride of Chucky,negative,5
+576,Bride of the Wind,negative,2
+577,Bride Wars,negative,2
+578,The Bridge on the River Kwai,negative,10
+579,Bridget Jones: The Edge of Reason,negative,3
+580,Brief Interviews with Hideous Men,negative,5
+581,Bring It On,negative,7
+582,Bringing Down the House,negative,4
+583,Broken City,negative,3
+584,Broken Flowers,negative,9
+585,The Broken Hearts Club,negative,7
+586,A Bronx Tale,negative,10
+587,The Brood,negative,9
+588,Brotherhood,negative,6
+589,Brothers,negative,9
+590,Bubble Boy,negative,4
+591,Bucky Larson: Born to Be a Star,negative,1
+592,Buffy the Vampire Slayer,negative,4
+593,Bug,negative,7
+594,Buried,negative,9
+595,Burlesque,negative,4
+596,Burma VJ: Reporter i et Lukket Land ,negative,10
+597,The Burning Plain,negative,4
+598,Bushwick,negative,5
+599,The Butterfly Effect,negative,4
+600,Byzantium,negative,7
+601,The Cable Guy,negative,6
+602,Caché,negative,9
+603,Caddyshack,negative,8
+604,Caddyshack II,negative,1
+605,California Suite,negative,6
+606,Call Me Kuchu,negative,10
+607,Camp Rock,negative,5
+608,Candyman,negative,8
+609,Caniba,negative,6
+610,Cannibal! The Musical ,negative,7
+611,Can't Buy Me Love,negative,5
+612,Capernaum ,negative,10
+613,Capital in the Twenty-First Century,negative,10
+614,Capitalism: A Love Story,negative,8
+615,Capricorn One,negative,7
+616,Captive,negative,3
+617,Captivity,negative,1
+618,Careful What You Wish For,negative,2
+619,Cartel Land,negative,10
+620,Casa de los Babys,negative,6
+621,Cashback,negative,5
+622,Casino Royale,negative,10
+623,Casualties of War,negative,9
+624,Catch and Release,negative,3
+625,Catfight,negative,8
+626,Cats & Dogs: The Revenge of Kitty Galore,negative,2
+627,Cecil B. Demented,negative,6
+628,Cell,negative,2
+629,Chandni Chowk To China,negative,5
+630,Changing Lanes,negative,8
+631,Chaos Theory,negative,4
+632,Chaplin,negative,6
+633,Charlie Countryman,negative,3
+634,Charlie Says,negative,6
+635,Chasing Amy,negative,9
+636,Chasing Madoff,negative,5
+637,Chasing Papi,negative,2
+638,Che: Part Two ,negative,8
+639,Cheaper by the Dozen 2,negative,1
+640,Cherish,negative,6
+641,Chicken with Plums,negative,8
+642,Child Of God,negative,5
+643,Children of Men,negative,10
+644,Child's Play,negative,7
+645,Choking Man,negative,6
+646,Chopper,negative,8
+647,The Chorus ,negative,7
+648,Christine,negative,7
+649,Christine,negative,9
+650,The Chronicles of Riddick,negative,3
+651,Chuck & Buck,negative,9
+652,The Chumscrubber,negative,4
+653,Cidade dos Homens ,negative,8
+654,A Cinderella Story,negative,2
+655,Cinema Verite,negative,7
+656,Cirque Du Soleil: Worlds Away,negative,5
+657,City by the Sea,negative,5
+658,Cidade de Deus ,negative,10
+659,Civic Duty,negative,6
+660,Clara's Ghost,negative,8
+661,Wrath of the Titans,negative,3
+662,Clear History,negative,7
+663,Cleopatra's Second Husband,negative,6
+664,Clifford,negative,2
+665,Clifford's Really Big Movie,negative,6
+666,Clockers,negative,8
+667,A Clockwork Orange,negative,9
+668,Cloud Atlas,negative,7
+669,Club Dread,negative,3
+670,Clue,negative,7
+671,Cobb,negative,7
+672,Cocktail,negative,1
+673,Code Black,negative,9
+674,Code Name: The Cleaner,negative,1
+675,Coffee & Kareem,negative,3
+676,Cold Comes The Night,negative,5
+677,Cold Creek Manor,negative,2
+678,Cold Mountain,negative,8
+679,Cold Weather,negative,8
+680,Collateral Beauty,negative,2
+681,Colombiana,negative,3
+682,Color of Night,negative,3
+683,Come to Daddy,negative,9
+684,The Comebacks,negative,1
+685,Comedian,negative,8
+686,Company Man,negative,2
+687,Conan the Barbarian,negative,3
+688,Concerning Violence,negative,10
+689,The Condemned,negative,2
+690,Coneheads,negative,4
+691,Congo,negative,3
+692,Conquest Of The Planet Of The Apes,negative,6
+693,Contagion,negative,9
+694,The Cookout,negative,1
+695,Cop Out,negative,2
+696,"Copying Beethoven, ",negative,3
+697,The Core,negative,5
+698,Corky Romano,negative,1
+699,Cosmopolis,negative,7
+700,Countdown,negative,3
+701,The Country Bears,negative,4
+702,Courageous,negative,4
+703,The Covenant,negative,1
+704,Coyote Ugly,negative,3
+705,Cradle 2 the Grave,negative,3
+706,Crawl,negative,9
+707,The Crazies,negative,7
+708,Crazy Love,negative,8
+709,Creepy ,negative,10
+710,Crocodile Dundee II,negative,2
+711,Crossover,negative,1
+712,The Crow,negative,9
+713,The Crow - Salvation,negative,3
+714,The Crow: City of Angels,negative,2
+715,Cruel Intentions,negative,6
+716,Cry_Wolf,negative,3
+717,The Crying Game,negative,10
+718,CSNY Déjà Vu,negative,7
+719,Curse of Chucky,negative,8
+720,Curse of the Golden Flower,negative,7
+721,Cutter's Way,negative,10
+722,D-Tox ,negative,2
+723,The D Train,negative,6
+724,Daddy Day Camp,negative,1
+725,Daddy Day Care,negative,3
+726,Daddy's Home,negative,4
+727,Daddy's Little Girls,negative,3
+728,Dai-Nipponjin ,negative,8
+729,Dance with Me,negative,6
+730,Dancer in the Dark,negative,7
+731,Dances With Wolves,negative,9
+732,Dangerous Minds,negative,3
+733,Dante's Peak,negative,3
+734,Dark Crimes,negative,1
+735,The Dark Half,negative,6
+736,Dark Horse,negative,8
+737,Dark Matter,negative,5
+738,Dark Phoenix,negative,3
+739,Dark River,negative,9
+740,Dark Tide,negative,1
+741,Dark Victory,negative,9
+742,Dark Waters,negative,10
+743,Darkman,negative,9
+744,Darkness,negative,1
+745,American Experience,negative,8
+746,David & Layla,negative,6
+747,Daybreakers,negative,7
+748,Days of Thunder,negative,4
+749,Dead Man Running,negative,2
+750,Dylan Dog: Dead of Night,negative,1
+751,Dead Man Down,negative,5
+752,Dead Man on Campus,negative,2
+753,Dead Man's Shoes,negative,6
+754,The Dead Pool,negative,6
+755,Dead Ringers,negative,9
+756,Dead Silence,negative,3
+757,Deadpool 2,negative,9
+758,Dear Dictator,negative,2
+759,Dear John,negative,3
+760,Dear Wendy,negative,4
+761,Death at a Funeral,negative,7
+762,Death Defying Acts,negative,5
+763,Death of a President,negative,4
+764,Death Race,negative,5
+765,Death Sentence,negative,3
+766,Death Wish,negative,2
+767,Deception,negative,2
+768,Deck the Halls,negative,1
+769,Dedication,negative,5
+770,Deep Red ,negative,10
+771,Defiance,negative,6
+772,Deliver Us from Evil,negative,10
+773,Deliver Us from Evil,negative,3
+774,Deliverance,negative,9
+775,Delta Farce,negative,1
+776,Demolition,negative,6
+777,Desierto,negative,7
+778,Desperate Measures,negative,2
+779,Desperately Seeking Susan,negative,9
+780,Despite The Falling Snow,negative,1
+781,Detroit,negative,9
+782,Detroit Rock City,negative,5
+783,Deuce Bigalow: Male Gigolo,negative,3
+784,Deuce Bigalow: European Gigolo,negative,1
+785,Deuces Wild,negative,1
+786,Devil's Due,negative,2
+787,The Devil's Rejects,negative,6
+788,Diana,negative,1
+789,Diary of the Dead,negative,7
+790,Diary of a Wimpy Kid,negative,6
+791,Diary of a Wimpy Kid: Dog Days,negative,6
+792,Diary Of A Wimpy Kid: The Long Haul,negative,2
+793,Dirty Dancing: Havana Nights,negative,3
+794,The Dirty Dozen,negative,9
+795,Dirty Grandpa,negative,2
+796,Dirty Harry,negative,9
+797,Dirty Love,negative,1
+798,Dirty Pretty Things,negative,10
+799,A Dirty Shame,negative,6
+800,Dirty Wars,negative,9
+801,Disaster Movie,negative,1
+802,Disturbia,negative,7
+803,Divergent,negative,5
+804,Divided We Fall,negative,10
+805,Django Unchained,negative,9
+806,Do Not Resist,negative,10
+807,Doghouse,negative,5
+808,Dogtooth ,negative,10
+809,Dolemite Is My Name,negative,10
+810,Dominion: Prequel to the Exorcist,negative,4
+811,Domino,negative,2
+812,Domino,negative,4
+813,Donkey Punch,negative,6
+814,Donnybrook,negative,4
+815,Don't Be Afraid Of The Dark,negative,7
+816,Don't Let Go ,negative,5
+817,Don't Look Now,negative,10
+818,Doom,negative,2
+819,Doomsday,negative,6
+820,The Doors,negative,6
+821,Double Dragon,negative,2
+822,Doug's 1st Movie,negative,3
+823,Down a Dark Hall,negative,6
+824,Down and Derby,negative,3
+825,Down to You,negative,1
+826,Dracula 2000,negative,2
+827,Dracula - Dead and Loving It,negative,2
+828,Dracula Untold,negative,3
+829,Dragged Across Concrete,negative,8
+830,Dragon Wars,negative,4
+831,Dragonheart,negative,6
+832,Dream House,negative,1
+833,Dreamcatcher,negative,3
+834,Drive Me Crazy,negative,3
+835,Drowning Mona,negative,3
+836,Drugstore Cowboy,negative,10
+837,Duane Hopwood,negative,6
+838,Dumb and Dumber,negative,7
+839,Dungeons & Dragons,negative,2
+840,Earth Girls Are Easy,negative,7
+841,Earthquake Bird,negative,6
+842,Eden,negative,9
+843,Eden Lake,negative,8
+844,Edge of Darkness,negative,6
+845,Edmond,negative,5
+846,El Chicano,negative,4
+847,Tropa de Elite ,negative,6
+848,Elite Squad: The Enemy Within,negative,10
+849,Stonehearst Asylum,negative,6
+850,Empire Records,negative,3
+851,Star Wars: Episode V - The Empire Strikes Back,negative,10
+852,Employee of the Month,negative,3
+853,Encino Man,negative,2
+854,End of Days,negative,2
+855,Ender's Game,negative,7
+856,The English Patient,negative,9
+857,Entanglement,negative,7
+858,Entrapment,negative,4
+859,Epic Movie,negative,1
+860,Equalizer 2,negative,6
+861,Equilibrium,negative,5
+862,Eraser,negative,4
+863,Eros,negative,4
+864,John Carpenter's Escape from L.A.,negative,6
+865,Escape Plan,negative,6
+866,Escape Room,negative,6
+867,Essential Killing,negative,8
+868,Euphoria,negative,2
+869,Europa Report,negative,9
+870,Eurotrip,negative,5
+871,Evelyn,negative,7
+872,Even Money,negative,3
+873,Event Horizon,negative,3
+874,An Everlasting Piece,negative,5
+875,Everly,negative,4
+876,Every Day,negative,7
+877,Every Secret Thing,negative,4
+878,Every Which Way But Loose,negative,4
+879,Everybody Knows ,negative,8
+880,Everyday,negative,8
+881,Everyone's Hero,negative,5
+882,Evil Dead 2: Dead by Dawn,negative,10
+883,Excess Baggage,negative,4
+884,Existenz,negative,8
+885,Exit Wounds,negative,4
+886,The Exorcist III,negative,6
+887,Exorcist II: The Heretic,negative,2
+888,Exorcist: The Beginning,negative,2
+889,Expelled: No Intelligence Allowed,negative,2
+890,Exposed,negative,1
+891,Exterminating Angels,negative,5
+892,Extinction,negative,2
+893,Extinction,negative,4
+894,Extreme Ops,negative,1
+895,"Extremely Wicked, Shockingly Evil and Vile",negative,6
+896,Eye for an Eye,negative,1
+897,Eyes Without a Face,negative,10
+898,A Face in the Crowd,negative,9
+899,Facing the Giants,negative,2
+900,The Faculty,negative,6
+901,Fading Gigolo,negative,6
+902,Failure to Launch,negative,3
+903,Fame,negative,9
+904,The Family Stone,negative,6
+905,Fantastic Four: Rise of the Silver Surfer,negative,4
+906,Fascination,negative,1
+907,The Ex,negative,2
+908,The Fast and the Furious: Tokyo Drift,negative,4
+909,Fast Color,negative,9
+910,Fat Albert,negative,3
+911,Fat City,negative,10
+912,Fathers And Daughters,negative,3
+913,Fathers' Day,negative,3
+914,Fay Grim,negative,5
+915,Feardotcom,negative,1
+916,Feeling Minnesota,negative,2
+917,Female Trouble,negative,9
+918,Fifty Shades of Black,negative,1
+919,The Fighting Temptations,negative,5
+920,A Film Unfinished,negative,10
+921,Final Destination,negative,4
+922,Final Destination 3,negative,5
+923,The Final Destination,negative,3
+924,Final Fantasy: The Spirits Within,negative,5
+925,Finding Fela!,negative,6
+926,Finishing the Game,negative,4
+927,Fire Birds,negative,2
+928,Fired Up,negative,3
+929,Firelight,negative,6
+930,Firewall,negative,2
+931,First Daughter,negative,1
+932,First Position,negative,10
+933,First They Killed My Father,negative,9
+934,The Fisher King,negative,9
+935,Fist Fight,negative,3
+936,Flashbacks of a Fool,negative,4
+937,Flatliners,negative,1
+938,Flicka,negative,6
+939,Flipped,negative,6
+940,Florence Foster Jenkins,negative,9
+941,Flow: For Love of Water,negative,9
+942,Flubber,negative,3
+943,Flyboys,negative,4
+944,"Food, Inc.",negative,10
+945,Fool's Gold,negative,2
+946,For Greater Glory,negative,3
+947,Force Majeure,negative,10
+948,Forever My Girl,negative,3
+949,Forgetting Sarah Marshall,negative,9
+950,Forgiving Dr. Mengele,negative,10
+951,The Forgotten,negative,4
+952,Forrest Gump,negative,8
+953,Four Christmases,negative,3
+954,Four Kids and It,negative,6
+955,Four Lions,negative,9
+956,Four Rooms,negative,2
+957,Foxcatcher,negative,9
+958,Frailty,negative,8
+959,Frances,negative,7
+960,"Frankenstein's Monster's Monster, Frankenstein",negative,9
+961,Frankie & Alice,negative,3
+962,Freddy Got Fingered,negative,2
+963,Freedomland,negative,3
+964,The French Connection II,negative,8
+965,Frenzy,negative,10
+966,Frequency,negative,8
+967,Freshman Orientation,negative,4
+968,Friday After Next,negative,3
+969,Friday the 13th,negative,7
+970,Friday the 13th Part 2,negative,3
+971,Friday the 13th Part 3,negative,2
+972,Friday the 13th Part VII - The New Blood,negative,4
+973,Friday the 13th,negative,3
+974,Fritz the Cat,negative,6
+975,From Justin To Kelly,negative,2
+976,Frontera,negative,6
+977,Frontier,negative,6
+978,Frozen River,negative,9
+979,Fugitive Pieces,negative,7
+980,Full Frontal,negative,4
+981,Fur: An Imaginary Portrait of Diane Arbus,negative,4
+982,Fury,negative,8
+983,Gambit,negative,2
+984,Game Change,negative,7
+985,Game of Death,negative,6
+986,Game 6,negative,7
+987,Gamer,negative,4
+988,Gangster No. 1,negative,8
+989,Garfield - The Movie,negative,2
+990,GasLand,negative,10
+991,The General's Daughter,negative,3
+992,Georgia Rule,negative,2
+993,Gerald's Game,negative,10
+994,Gerontophilia,negative,5
+995,Gerry,negative,7
+996,Get Hard,negative,3
+997,Getting Even With Dad,negative,1
+998,Ghost Dad,negative,1
+999,Ghost Rider,negative,3
+1000,Ghost Rider: Spirit of Vengeance,negative,2
+1001,Ghost Ship,negative,2
+1002,Ghost Stories,negative,9
+1003,Ghosts of Girlfriends Past,negative,3
+1004,G.I. Joe: The Rise of Cobra,negative,4
+1005,Gigli,negative,1
+1006,Gilda,negative,10
+1007,Gimme Shelter,negative,10
+1008,La Fille Coupée en Deux  ,negative,8
+1009,La Fille de Monaco ,negative,5
+1010,Girl In Progress,negative,4
+1011,"Girl, Interrupted",negative,6
+1012,Red Riding Hood,negative,2
+1013,Girlhood,negative,10
+1014,Girls Will Be Girls,negative,6
+1015,The Glass House,negative,3
+1016,Glassland,negative,9
+1017,The Glimmer Man,negative,2
+1018,God Bless America,negative,7
+1019,God Grew Tired Of Us,negative,10
+1020,"The Godfather, Part III",negative,7
+1021,Gods and Generals,negative,1
+1022,Gods and Monsters,negative,10
+1023,God's Pocket,negative,4
+1024,Going Clear: Scientology and the Prison of Belief,negative,10
+1025,Going My Way,negative,9
+1026,Going Shopping,negative,5
+1027,Gone Fishin',negative,1
+1028,Gone With the Wind,negative,10
+1029,A Good Woman,negative,4
+1030,Goodnight Mommy ,negative,9
+1031,"The Goods: Live Hard, Sell Hard",negative,3
+1032,Goon: Last of the Enforcers,negative,5
+1033,Gothika,negative,2
+1034,The Great Ziegfeld,negative,7
+1035,Green Dragon,negative,7
+1036,Green Street Hooligans,negative,5
+1037,Grey Gardens,negative,10
+1038,Gringo,negative,5
+1039,The Groomsmen,negative,6
+1040,Grown Ups,negative,2
+1041,The Grudge 2,negative,2
+1042,Guest of Honour,negative,5
+1043,Gwen,negative,8
+1044,H2: Halloween II,negative,3
+1045,Hair High,negative,8
+1046,Half Baked,negative,3
+1047,Half of a Yellow Sun,negative,6
+1048,Half Past Dead,negative,1
+1049,Hall Pass,negative,4
+1050,Halloween,negative,3
+1051,Halloween 4: The Return of Michael Myers,negative,3
+1052,Halloween 5: The Revenge of Michael Myers,negative,2
+1053,Halloween: Resurrection,negative,2
+1054,Halloween - The Curse of Michael Myers ,negative,1
+1055,Hamlet 2,negative,7
+1056,Hancock,negative,5
+1057,Hanging Up,negative,2
+1058,Hannah Montana/Miley Cyrus: Best of Both Worlds Concert Tour,negative,8
+1059,Hannah Montana: The Movie,negative,5
+1060,Hansel and Gretel: Witch Hunters,negative,2
+1061,Happily N'ever After,negative,1
+1062,Hara-Kiri: Death of a Samurai,negative,8
+1063,Hard Rain,negative,4
+1064,Hard Target,negative,6
+1065,The Hard Word,negative,4
+1066,Harlem Nights,negative,3
+1067,Harold and Maude,negative,9
+1068,Harry Potter and the Prisoner of Azkaban,negative,10
+1069,Harsh Times,negative,5
+1070,Harvard Man,negative,4
+1071,The Haunted Mansion,negative,2
+1072,The Haunting of Molly Hartley,negative,1
+1073,Heathers,negative,10
+1074,Heavy Metal in Baghdad,negative,9
+1075,Hedwig and the Angry Inch,negative,10
+1076,Held Up,negative,2
+1077,Heli,negative,6
+1078,Hell Fest,negative,5
+1079,Hellbound: Hellraiser II,negative,6
+1080,Hello I Must Be Going,negative,8
+1081,Hemingway & Gellhorn,negative,5
+1082,Henry V ,negative,10
+1083,Henry's Crime,negative,5
+1084,Here on Earth,negative,2
+1085,Hereafter,negative,5
+1086,Hereditary,negative,9
+1087,Hey Arnold! The Movie,negative,3
+1088,The Hidden Blade,negative,9
+1089,Hide,negative,9
+1090,High Tension ,negative,5
+1091,High Crimes,negative,4
+1092,Highlander,negative,7
+1093,Highlander III: The Sorcerer ,negative,1
+1094,Highlander: Endgame,negative,2
+1095,The Hills Have Eyes,negative,6
+1096,The Hills Have Eyes 2,negative,2
+1097,The Hip Hop Project,negative,6
+1098,History of the World---Part I,negative,6
+1099,Hitchcock,negative,7
+1100,Hitman,negative,2
+1101,Hitman: Agent 47,negative,1
+1102,Hobo With a Shotgun,negative,7
+1103,Hocus Pocus,negative,4
+1104,Hoffa,negative,6
+1105,Hold the Dark,negative,8
+1106,Holmes and Watson,negative,2
+1107,Holy Man,negative,2
+1108,A Home at the End of the World,negative,6
+1109,Home Room,negative,6
+1110,Honeydripper,negative,7
+1111,Hoot,negative,3
+1112,Horrible Bosses,negative,7
+1113,Horrible Bosses 2,negative,4
+1114,Horse Girl,negative,8
+1115,The Horse Whisperer,negative,8
+1116,The Hot Chick,negative,3
+1117,Hot Tub Time Machine 2,negative,2
+1118,Hotel for Dogs,negative,5
+1119,Hotel Mumbai,negative,8
+1120,The Hottie and the Nottie,negative,1
+1121,House at the End of the Street,negative,2
+1122,The House Bunny,negative,5
+1123,House of 1000 Corpses,negative,3
+1124,House of Flying Daggers,negative,9
+1125,House of Games,negative,10
+1126,How High,negative,3
+1127,How to Lose a Guy in 10 Days,negative,5
+1128,How to Lose Friends & Alienate People,negative,4
+1129,Howard the Duck,negative,2
+1130,The Human Centipede ,negative,5
+1131,Hush,negative,10
+1132,I Am David,negative,4
+1133,I Am Divine,negative,10
+1134,I Am Michael,negative,7
+1135,I Am Not a Serial Killer,negative,10
+1136,I Am Number Four,negative,4
+1137,I Am Sam,negative,4
+1138,I Am Woman,negative,7
+1139,I Don't Know How She Does It,negative,2
+1140,"I, Frankenstein",negative,1
+1141,I Hope They Serve Beer in Hell,negative,3
+1142,I Know What You Did Last Summer,negative,5
+1143,I Know Who Killed Me,negative,1
+1144,I Love Trouble,negative,3
+1145,I Melt with You,negative,2
+1146,I Now Pronounce You Chuck & Larry,negative,2
+1147,"I, Robot",negative,6
+1148,I Smile Back,negative,6
+1149,I Spit on Your Grave ,negative,6
+1150,I Spit On Your Grave,negative,4
+1151,I Spy,negative,2
+1152,I Still Know What You Did Last Summer,negative,1
+1153,I Think I Love My Wife,negative,2
+1154,I Trapped The Devil,negative,8
+1155,I Wish,negative,10
+1156,Ichi the Killer ,negative,7
+1157,I'll Sleep When I'm Dead,negative,5
+1158,Illegal Tender,negative,2
+1159,Immortals,negative,5
+1160,Impostor,negative,3
+1161,In the Name of the King: A Dungeon Siege Tale,negative,1
+1162,In A Better World,negative,8
+1163,In the Bedroom,negative,10
+1164,In the Name of My Daughter,negative,6
+1165,Incendiary,negative,3
+1166,Incendies,negative,10
+1167,Incident In a Ghost Land ,negative,6
+1168,Infamous,negative,3
+1169,Inferno,negative,3
+1170,Inglourious Basterds,negative,9
+1171,Inherent Vice,negative,8
+1172,Innocence,negative,2
+1173,Insidious,negative,7
+1174,Insidious: Chapter 2,negative,4
+1175,Interview with the Assassin,negative,7
+1176,Interview with the Vampire,negative,7
+1177,Into the Blue,negative,3
+1178,Into The Storm,negative,3
+1179,Intruders,negative,4
+1180,The Invasion,negative,2
+1181,Invictus,negative,8
+1182,Irréversible,negative,6
+1183,Ishtar,negative,4
+1184,Isn't She Great,negative,3
+1185,It,negative,9
+1186,It Comes At Night,negative,9
+1187,It's a Disaster,negative,8
+1188,Ivan's Childhood ,negative,10
+1189,J. Edgar,negative,5
+1190,Jack and Jill,negative,1
+1191,Jack Goes Boating,negative,7
+1192,Jackass Presents: Bad Grandpa,negative,7
+1193,The Jacket,negative,5
+1194,Jacob's Ladder,negative,1
+1195,Jafar Panahi's Taxi,negative,10
+1196,Jakob the Liar,negative,3
+1197,James and the Giant Peach,negative,10
+1198,Jason X,negative,3
+1199,Jason's Lyric,negative,7
+1200,Jawbreaker,negative,2
+1201,Jaws 3,negative,2
+1202,Jennifer's Body,negative,5
+1203,Jerichow,negative,9
+1204,The Jerk,negative,9
+1205,Jimi: All Is by My Side,negative,7
+1206,Jobs,negative,3
+1207,Joe Dirt,negative,2
+1208,Joe Somebody,negative,3
+1209,John Carpenter's Ghosts of Mars,negative,3
+1210,John Carter,negative,6
+1211,Johnny English,negative,4
+1212,Johnny English Reborn,negative,4
+1213,Journey to the Center of the Earth,negative,9
+1214,Judge Dredd,negative,3
+1215,Julien Donkey-Boy,negative,3
+1216,Jungle 2 Jungle,negative,2
+1217,Just a Kiss,negative,2
+1218,Just Cause,negative,3
+1219,Just Married,negative,3
+1220,Just My Luck,negative,2
+1221,Just Visiting,negative,4
+1222,Justice League,negative,5
+1223,Juwanna Mann,negative,2
+1224,Kabluey,negative,9
+1225,The Karate Kid Part II,negative,5
+1226,Kate & Leopold,negative,6
+1227,Kelly & Cal,negative,8
+1228,Key Largo,negative,10
+1229,Kicking & Screaming,negative,5
+1230,A Kid in King Arthur's Court,negative,1
+1231,Kidnap,negative,4
+1232,Kidnapped,negative,5
+1233,Kidnapping Mr. Heineken,negative,2
+1234,Kids for Cash,negative,10
+1235,Kill Me Three Times,negative,2
+1236,Kill Your Friends,negative,3
+1237,The Killing Fields,negative,10
+1238,Killing Ground,negative,8
+1239,Killing Zoe,negative,4
+1240,Kindergarten Cop,negative,6
+1241,Kiss The Girls,negative,4
+1242,Klovn: The Movie ,negative,8
+1243,Knock Knock,negative,4
+1244,Knock Off,negative,1
+1245,Kodachrome,negative,8
+1246,Kramer vs. Kramer,negative,9
+1247,Krystal,negative,2
+1248,La tête en friche ,negative,9
+1249,Lady in the Water,negative,3
+1250,The Ladykillers,negative,6
+1251,Lake City,negative,2
+1252,The Lake House,negative,4
+1253,Lakeboat,negative,9
+1254,L'Argent,negative,10
+1255,Heartbreaker ,negative,7
+1256,Larry the Cable Guy: Health Inspector,negative,1
+1257,The Last Airbender,negative,1
+1258,The Last Boy Scout,negative,5
+1259,Last Holiday,negative,6
+1260,The Last King of Scotland,negative,9
+1261,The Last Legion,negative,2
+1262,Last Men in Aleppo,negative,10
+1263,Late Marriage,negative,9
+1264,Laurel Canyon,negative,7
+1265,Law Abiding Citizen,negative,3
+1266,Lawless,negative,7
+1267,The Lawnmower Man,negative,4
+1268,Laws of Attraction,negative,2
+1269,LBJ,negative,6
+1270,Le Cercle Rouge,negative,10
+1271,Le Havre,negative,10
+1272,Lean on Pete,negative,10
+1273,Leatherface,negative,4
+1274,Leave It to Beaver,negative,3
+1275,Leaving Las Vegas,negative,10
+1276,Left Behind,negative,1
+1277,Left Behind: The Movie,negative,2
+1278,Legend,negative,7
+1279,The Legend of Bagger Vance,negative,5
+1280,Legion,negative,2
+1281,Lemony Snicket's A Series of Unfortunate Events,negative,8
+1282,The Adventures of Pinocchio ,negative,4
+1283,Let it Rain ,negative,8
+1284,Lethal Weapon 4,negative,6
+1285,Let's Be Cops,negative,2
+1286,Let's Go to Prison,negative,2
+1287,Letters to Juliet,negative,5
+1288,Liam Gallagher: As It Was,negative,7
+1289,Life,negative,7
+1290,Life After Beth,negative,5
+1291,The Life Before Her Eyes,negative,3
+1292,Lifeforce,negative,6
+1293,Like Crazy,negative,8
+1294,Like Someone in Love,negative,9
+1295,Lila & Eve,negative,5
+1296,The Limits of Control,negative,5
+1297,Linsanity,negative,7
+1298,Lions for Lambs,negative,3
+1299,Little Ashes,negative,3
+1300,Little Black Book,negative,3
+1301,Little Children,negative,9
+1302,Little Fockers,negative,1
+1303,Little Joe,negative,7
+1304,Little Man,negative,2
+1305,Little Secrets,negative,7
+1306,The Little Vampire,negative,6
+1307,Little Voice,negative,8
+1308,Live Free or Die Hard,negative,9
+1309,Living Out Loud,negative,6
+1310,The Lizzie McGuire Movie,negative,5
+1311,"Lo and Behold, Reveries of the Connected World",negative,10
+1312,"Lock, Stock and Two Smoking Barrels",negative,8
+1313,Lonely Hearts,negative,5
+1314,The Long Riders,negative,9
+1315,Long Shot,negative,9
+1316,Looking for Comedy in the Muslim World,negative,5
+1317,Looney Tunes: Back in Action,negative,6
+1318,Lorna's Silence,negative,9
+1319,Loro,negative,8
+1320,Lost and Delirious,negative,6
+1321,The Lost Boys,negative,8
+1322,Lost Boys of Sudan,negative,10
+1323,Lost in Space,negative,3
+1324,The Lost World - Jurassic Park,negative,6
+1325,A Lot Like Love,negative,5
+1326,Louder Than Bombs,negative,8
+1327,Love & Sex,negative,5
+1328,Love Don't Cost a Thing,negative,2
+1329,Loverboy,negative,2
+1330,A Low Down Dirty Shame,negative,1
+1331,Luce,negative,10
+1332,Lucky Numbers,negative,3
+1333,Lucy in the Sky,negative,3
+1334,"Lust, Caution",negative,8
+1335,M. Butterfly,negative,5
+1336,Macbeth,negative,9
+1337,Machete,negative,8
+1338,Machine Gun Preacher,negative,3
+1339,Mad Dog and Glory,negative,8
+1340,Mad Love,negative,5
+1341,Mad Max,negative,10
+1342,Mad Max 2: The Road Warrior,negative,10
+1343,Madame,negative,5
+1344,Madame Bovary,negative,5
+1345,Made of Honor,negative,2
+1346,Madea Goes to Jail,negative,3
+1347,Magnum Force,negative,8
+1348,Maid in Manhattan,negative,4
+1349,Mail Order Wife,negative,7
+1350,Major Dundee,negative,10
+1351,Mala Noche,negative,10
+1352,Mambo Italiano,negative,4
+1353,Man Down,negative,2
+1354,Man of the House,negative,1
+1355,Man of the Year,negative,3
+1356,Man on a Ledge,negative,4
+1357,Man on Fire,negative,4
+1358,The Man with the Golden Gun,negative,5
+1359,The Manchurian Candidate,negative,9
+1360,Maniac,negative,6
+1361,Manic,negative,7
+1362,Manifesto,negative,8
+1363,Mansome,negative,3
+1364,Mao's Last Dancer,negative,6
+1365,Marathon Man,negative,9
+1366,Marci X,negative,1
+1367,Margaret,negative,8
+1368,Marigold,negative,4
+1369,Marilyn Hotchkiss Ballroom Dancing & Charm School,negative,3
+1370,The Marine,negative,3
+1371,Mark Felt: The Man Who Brought Down the White House,negative,4
+1372,Marmaduke,negative,1
+1373,Mars Attacks!,negative,6
+1374,Mars Needs Moms,negative,4
+1375,Martin Lawrence Live - Runteldat,negative,4
+1376,Martyrs,negative,7
+1377,Mary Magdalene,negative,5
+1378,Mary Queen of Scots,negative,7
+1379,The Master of Disguise,negative,1
+1380,Masters of the Universe,negative,2
+1381,Material Girls,negative,1
+1382,The Matrix Revolutions,negative,4
+1383,Matthew Barney: No Restraint,negative,6
+1384,May,negative,7
+1385,Me Before You,negative,6
+1386,"Me, Myself & Irene",negative,5
+1387,Mean Creek,negative,9
+1388,Meatballs,negative,8
+1389,Meet The Browns,negative,4
+1390,Meet the Spartans,negative,1
+1391,Mega Shark vs. Giant Octopus,negative,2
+1392,Melinda and Melinda,negative,6
+1393,Memoirs of a Geisha,negative,4
+1394,Men in Black International,negative,3
+1395,The Men Who Stare at Goats,negative,6
+1396,Mental,negative,5
+1397,Mercury Rising,negative,3
+1398,Michael,negative,9
+1399,Mid90s,negative,9
+1400,Midnight Cowboy,negative,9
+1401,Midnight Sun,negative,3
+1402,A Mighty Heart,negative,8
+1403,Milarepa,negative,5
+1404,Mindhunters,negative,3
+1405,Mine,negative,2
+1406,Miral,negative,2
+1407,Miss Bala,negative,3
+1408,Miss Congeniality 2 - Armed and Fabulous,negative,2
+1409,Mission: Impossible - Fallout,negative,10
+1410,Mission: Impossible Rogue Nation,negative,10
+1411,Hallam Foe ,negative,8
+1412,Mobsters,negative,1
+1413,Mojave,negative,4
+1414,Molly,negative,2
+1415,Monsieur Lazhar,negative,10
+1416,Monster-in-Law,negative,2
+1417,The Monster Squad,negative,7
+1418,Monsters: Dark Continent,negative,2
+1419,Monte Carlo,negative,5
+1420,Monty Python and the Holy Grail,negative,10
+1421,Mortal Kombat,negative,5
+1422,Mortal Kombat: Annihilation,negative,1
+1423,Motel Hell,negative,8
+1424,Mother of Tears: The Third Mother,negative,5
+1425,Mountain Patrol ,negative,10
+1426,Mouse Hunt,negative,5
+1427,La Moustache,negative,9
+1428,Mouth to Mouth,negative,6
+1429,Mr. 3000,negative,6
+1430,Mr. Bean's Holiday,negative,6
+1431,Mr. Magoo,negative,1
+1432,Mr. Popper's Penguins,negative,5
+1433,Mr. Saturday Night,negative,6
+1434,Mr. Wrong,negative,1
+1435,Mrs. Hyde ,negative,6
+1436,Mulholland Drive,negative,9
+1437,Murder Mystery,negative,5
+1438,Muriel's Wedding,negative,8
+1439,Museum Hours,negative,10
+1440,Mutant Chronicles,negative,2
+1441,Mutual Appreciation,negative,9
+1442,My Amityville Horror,negative,8
+1443,My Blueberry Nights,negative,5
+1444,My Boss's Daughter,negative,1
+1445,My Brother The Devil,negative,10
+1446,My First Mister,negative,6
+1447,My Flesh and Blood,negative,10
+1448,My Life in Ruins,negative,2
+1449,My Neighbor Totoro,negative,10
+1450,"My Son, My Son, What Have Ye Done",negative,5
+1451,Mysterious Skin,negative,9
+1452,"Mystery, Alaska",negative,4
+1453,Mystic Pizza,negative,8
+1454,Nabbeun namja ,negative,5
+1455,Nanking,negative,10
+1456,Nanny McPhee,negative,8
+1457,Nanook of the North,negative,10
+1458,National Lampoon's Gold Diggers,negative,1
+1459,National Lampoon's Loaded Weapon 1,negative,3
+1460,National Security,negative,2
+1461,The Nativity Story,negative,4
+1462,Need For Speed,negative,3
+1463,Never Back Down,negative,3
+1464,Never Been Kissed,negative,6
+1465,Never Say Never Again,negative,7
+1466,New In Town,negative,3
+1467,A New Leaf,negative,10
+1468,New Year's Eve,negative,1
+1469,The Newton Boys,negative,7
+1470,Next,negative,3
+1471,Next Day Air,negative,3
+1472,Next Friday,negative,3
+1473,The Next Karate Kid,negative,1
+1474,The Next Three Days,negative,6
+1475,Nick of Time,negative,4
+1476,Nicotina,negative,5
+1477,Night at the Museum,negative,5
+1478,Night at the Museum: Secret of the Tomb,negative,5
+1479,A Night at the Roxbury,negative,2
+1480,Night Comes On,negative,10
+1481,Night Hunter ,negative,2
+1482,The Night of the Hunter,negative,10
+1483,Nightbreed,negative,4
+1484,Nightcrawler,negative,10
+1485,A Nightmare on Elm Street,negative,10
+1486,A Nightmare on Elm Street,negative,2
+1487,Nights of Cabiria ,negative,10
+1488,Nine,negative,4
+1489,Nine Months,negative,3
+1490,No Country for Old Men,negative,10
+1491,No Escape,negative,5
+1492,No Good Deed,negative,2
+1493,For No Good Reason,negative,7
+1494,No Man's Land,negative,10
+1495,No Place On Earth,negative,9
+1496,Non-Stop,negative,7
+1497,Norbit,negative,1
+1498,Norm of the North,negative,1
+1499,North,negative,2
+1500,"Nosferatu, a Symphony of Horror  ",negative,10
+1501,Not Easily Broken,negative,4
+1502,"Not Quite Hollywood: The Wild, Untold Story of Ozploitation!",negative,10
+1503,The Notebook,negative,6
+1504,Notes on Blindness,negative,10
+1505,Nothing Bad Can Happen,negative,8
+1506,Nothing Like the Holidays,negative,6
+1507,Novocaine,negative,4
+1508,"Now, Voyager",negative,10
+1509,Now You See Me,negative,6
+1510,O,negative,7
+1511,Observe and Report,negative,6
+1512,Ocean's 11,negative,5
+1513,Odd Thomas,negative,4
+1514,Old School,negative,7
+1515,Oldboy,negative,9
+1516,Oldboy,negative,5
+1517,Oliver!,negative,9
+1518,The Omen,negative,3
+1519,On the Outs,negative,10
+1520,On the Waterfront,negative,10
+1521,Once upon a Time in Mexico,negative,7
+1522,One False Move,negative,10
+1523,One for the Money,negative,1
+1524,One Missed Call,negative,1
+1525,Ong-Bak ,negative,9
+1526,Only Lovers Left Alive,negative,9
+1527,Open Season,negative,5
+1528,Open Windows,negative,5
+1529,Opening Night,negative,10
+1530,Opera,negative,10
+1531,Operation Dumbo Drop,negative,4
+1532,Orange County,negative,5
+1533,Original Sin,negative,2
+1534,Otherhood,negative,3
+1535,Ouija: Origin of Evil,negative,9
+1536,Our Children,negative,10
+1537,Our Idiot Brother,negative,8
+1538,Our Little Sister ,negative,10
+1539,Our Nixon,negative,10
+1540,Out Cold,negative,1
+1541,Out of Blue,negative,4
+1542,Out of the Past,negative,10
+1543,Outbreak,negative,7
+1544,Outlander,negative,4
+1545,Outlaw King,negative,7
+1546,Outlaws and Angels,negative,3
+1547,The Outsiders,negative,7
+1548,Over the Top,negative,4
+1549,Overboard,negative,5
+1550,Overboard,negative,3
+1551,Pain & Gain,negative,6
+1552,Palindromes,negative,5
+1553,Paparazzi,negative,2
+1554,Papillon,negative,6
+1555,Paradise Now,negative,9
+1556,Paranoia,negative,1
+1557,Paranormal Activity: The Marked Ones,negative,4
+1558,Parker,negative,5
+1559,Partisan,negative,6
+1560,Party Monster,negative,3
+1561,Passengers,negative,4
+1562,Pat Garrett & Billy the Kid,negative,9
+1563,Pathfinder,negative,2
+1564,Patriots Day,negative,9
+1565,"Paul, Apostle of Christ",negative,5
+1566,Pay It Forward,negative,4
+1567,Paycheck,negative,3
+1568,Peaceful Warrior,negative,3
+1569,Peeping Tom,negative,10
+1570,People I Know,negative,5
+1571,People's Republic of Desire,negative,10
+1572,Percy Jackson: Sea of Monsters,negative,5
+1573,Perfume: The Story of a Murderer,negative,6
+1574,Permanent Midnight,negative,6
+1575,Personal Best,negative,8
+1576,Personal Velocity: Three Portraits,negative,7
+1577,Pet Sematary,negative,6
+1578,Pete's Dragon,negative,6
+1579,Phantom,negative,3
+1580,The Phantom of the Opera,negative,4
+1581,Phil Spector,negative,6
+1582,Phoenix,negative,10
+1583,Pick of the Litter,negative,10
+1584,Pickpocket,negative,10
+1585,Pierrepoint: The Last Hangman,negative,8
+1586,Ping Pong Summer,negative,6
+1587,The Pink Panther,negative,3
+1588,Pioneer,negative,6
+1589,Piranha 3-D,negative,8
+1590,Piranha 3DD,negative,2
+1591,Pirates of the Caribbean: Dead Men Tell No Tales,negative,3
+1592,Pirates of the Caribbean: On Stranger Tides,negative,4
+1593,Pixels,negative,2
+1594,Play It to the Bone,negative,2
+1595,Play The Game,negative,3
+1596,Playing for Keeps,negative,1
+1597,Playmobil: The Movie,negative,2
+1598,Poetry,negative,10
+1599,Pokémon the First Movie - Mewtwo vs. Mew,negative,2
+1600,Police Academy,negative,6
+1601,Possum,negative,10
+1602,Poultrygeist: Night of the Chicken Dead,negative,7
+1603,Prayers for Bobby,negative,8
+1604,The Preacher's Wife,negative,7
+1605,Prey for Rock & Roll,negative,6
+1606,Pride,negative,10
+1607,Pride and Glory,negative,4
+1608,Primal,negative,4
+1609,Prime,negative,6
+1610,Prisoners,negative,9
+1611,Problem Child,negative,1
+1612,Problem Child 2,negative,1
+1613,Project Almanac,negative,4
+1614,Project X,negative,3
+1615,Prom,negative,4
+1616,Prom Night,negative,1
+1617,Protagonist,negative,9
+1618,Proxy,negative,7
+1619,Psycho,negative,10
+1620,Pulse ,negative,8
+1621,Pumpkin,negative,4
+1622,Punisher: War Zone,negative,3
+1623,Puppet Master: The Littlest Reich,negative,8
+1624,Purple Butterfly ,negative,5
+1625,Purple Rain,negative,8
+1626,The Pursuit of Happyness,negative,7
+1627,Q,negative,7
+1628,Quantum of Solace,negative,7
+1629,Queen and Country,negative,8
+1630,Queen of the Damned,negative,2
+1631,Quest For Camelot,negative,5
+1632,Quills,negative,8
+1633,Radio,negative,4
+1634,Radio Flyer,negative,4
+1635,Raging Bull,negative,10
+1636,Railroad Tigers,negative,4
+1637,Raise Your Voice,negative,2
+1638,Raising Cain,negative,6
+1639,Raising Helen,negative,3
+1640,Rambo: Last Blood,negative,3
+1641,Random Hearts,negative,2
+1642,Rattlesnake,negative,3
+1643,Ravenous,negative,5
+1644,Raw,negative,10
+1645,Ready to Rumble,negative,3
+1646,The Reaping,negative,1
+1647,Rebound,negative,2
+1648,Rebuilding Paradise,negative,10
+1649,[REC] 4: Apocalypse,negative,7
+1650,Red State,negative,7
+1651,Redacted,negative,5
+1652,Redline,negative,1
+1653,I'm Reed Fish,negative,6
+1654,Reindeer Games ,negative,3
+1655,Rememory,negative,3
+1656,Reno 911!: Miami,negative,4
+1657,Renoir,negative,8
+1658,Rent-A-Pal,negative,7
+1659,Replicas,negative,2
+1660,Repo Man,negative,10
+1661,Repulsion,negative,10
+1662,Requiem for a Dream,negative,8
+1663,Resident Evil,negative,4
+1664,Resident Evil: Afterlife,negative,3
+1665,Resident Evil: Apocalypse,negative,3
+1666,Resident Evil: Extinction,negative,3
+1667,Resident Evil: Retribution,negative,3
+1668,Resident Evil: The Final Chapter,negative,4
+1669,Resistance,negative,6
+1670,The Return,negative,2
+1671,Reverb,negative,1
+1672,Rewind,negative,10
+1673,Rich Hill,negative,9
+1674,Ricky Gervais: Humanity,negative,5
+1675,The Ring,negative,8
+1676,Ringmaster,negative,3
+1677,Rings,negative,1
+1678,Ringu ,negative,10
+1679,The Road to El Dorado,negative,5
+1680,Roar,negative,8
+1681,RoboCop 3,negative,1
+1682,Rock Dog,negative,5
+1683,Rock of Ages,negative,5
+1684,The Rocky Horror Picture Show,negative,9
+1685,Rocky IV,negative,5
+1686,Role Models,negative,8
+1687,Rollerball,negative,1
+1688,Romper Stomper,negative,8
+1689,Romy and Michele's High School Reunion,negative,8
+1690,Rookie of the Year,negative,4
+1691,Rory O'Shea Was Here,negative,5
+1692,Roxanne Roxanne,negative,8
+1693,Rubber,negative,7
+1694,The Rules of Attraction,negative,5
+1695,Rundskop ,negative,9
+1696,Rupture,negative,2
+1697,Rush Hour 3,negative,2
+1698,Ruthless People,negative,10
+1699,RV,negative,3
+1700,V/H/S/2,negative,8
+1701,Sabotage,negative,3
+1702,Sacco and Vanzetti,negative,9
+1703,Safe Haven,negative,2
+1704,Safe House,negative,6
+1705,Saint John of Las Vegas,negative,3
+1706,Saint Laurent,negative,7
+1707,The Salton Sea,negative,7
+1708,The Santa Clause 3: The Escape Clause,negative,2
+1709,Sarah Silverman: Jesus Is Magic,negative,7
+1710,Saturday Night Fever,negative,9
+1711,Savage Grace,negative,4
+1712,Savages,negative,6
+1713,Save the Last Dance,negative,6
+1714,Saved!,negative,7
+1715,Saving Silverman,negative,2
+1716,Saw,negative,5
+1717,Saw 3D,negative,2
+1718,Saw III,negative,3
+1719,Saw II,negative,4
+1720,Saw V,negative,2
+1721,Say It Isn't So,negative,1
+1722,A Scanner Darkly,negative,7
+1723,Scarface,negative,9
+1724,Scary Movie,negative,6
+1725,Scary Movie 2,negative,2
+1726,Scary Movie 3,negative,4
+1727,Scary Movie 5,negative,1
+1728,Scary Stories to Tell in the Dark,negative,8
+1729,Schindler's List,negative,10
+1730,Scoop,negative,5
+1731,Scouts Guide to the Zombie Apocalypse,negative,5
+1732,Scream 2,negative,9
+1733,The Sea Inside  ,negative,9
+1734,The Searchers,negative,10
+1735,Second Act,negative,5
+1736,The Secret Life of Bees,negative,6
+1737,Secret Obsession,negative,3
+1738,The Secret of NIMH,negative,10
+1739,Secret Things,negative,6
+1740,See Spot Run,negative,3
+1741,Seeking a Friend for the End of the World,negative,6
+1742,Seoul Station,negative,10
+1743,September Dawn,negative,2
+1744,Seraphim Falls,negative,6
+1745,Serious Moonlight,negative,3
+1746,Serving Sara,negative,1
+1747,Seven Days In Utopia,negative,3
+1748,Seven Pounds,negative,3
+1749,Seven Psychopaths,negative,9
+1750,Severance,negative,7
+1751,Sex and Death 101,negative,3
+1752,Sex and Lucia,negative,8
+1753,Sex and the City,negative,6
+1754,Sex and the City 2,negative,2
+1755,Sex Drive,negative,5
+1756,Sextuplets,negative,2
+1757,Sgt. Pepper's Lonely Hearts Club Band,negative,2
+1758,Shadow Dancer,negative,9
+1759,Shadowboxer,negative,2
+1760,Shakespeare Behind Bars,negative,10
+1761,Shanghai,negative,1
+1762,Shanghai Knights,negative,7
+1763,Shaolin Soccer,negative,10
+1764,Sharknado: The 4th Awakens,negative,2
+1765,She Hate Me,negative,2
+1766,Sherrybaby,negative,8
+1767,She's Out of My League,negative,6
+1768,She's the Man,negative,5
+1769,The Shipping News,negative,6
+1770,Shirkers,negative,10
+1771,Shooter,negative,5
+1772,Siberia,negative,2
+1773,Siddharth,negative,10
+1774,The Signal,negative,6
+1775,Silent Hill: Revelation,negative,2
+1776,Silver City,negative,5
+1777,Simon Birch,negative,5
+1778,Simon Killer,negative,8
+1779,Simon Sez,negative,1
+1780,Simpatico,negative,3
+1781,Sin City,negative,8
+1782,Single White Female,negative,6
+1783,Sinister 2,negative,2
+1784,"Six Days, Seven Nights",negative,4
+1785,Sketches of Frank Gehry,negative,9
+1786,Skills Like This,negative,6
+1787,Skins,negative,6
+1788,The Slaughter Rule,negative,8
+1789,Slaughterhouse Rulez,negative,4
+1790,Slay the Dragon,negative,10
+1791,Sleep Dealer,negative,8
+1792,Sleepaway Camp,negative,8
+1793,Sleeping Beauty,negative,5
+1794,Sleeping with Other People,negative,7
+1795,Sleepwalking,negative,2
+1796,Slender Man,negative,1
+1797,Slither,negative,9
+1798,Slow Burn,negative,2
+1799,Small Soldiers,negative,5
+1800,Small Time Crooks,negative,7
+1801,Smokin' Aces,negative,4
+1802,Smurfs: The Lost Village,negative,5
+1803,Snow Day,negative,3
+1804,Snow Dogs,negative,3
+1805,Snow White and the Huntsman,negative,5
+1806,Solo,negative,1
+1807,Solo: A Star Wars Story,negative,8
+1808,Some Like It Hot,negative,10
+1809,Something Borrowed,negative,2
+1810,Son Of God,negative,3
+1811,Son of the Mask,negative,1
+1812,Sorority Boys,negative,2
+1813,"Sorry, Haters",negative,4
+1814,Soul Plane,negative,2
+1815,Soul Survivors,negative,1
+1816,A Sound of Thunder,negative,1
+1817,Special Correspondents,negative,2
+1818,Species II,negative,1
+1819,Speed 2 - Cruise Control,negative,1
+1820,Spike Island,negative,5
+1821,Spinning Into Butter,negative,2
+1822,Split,negative,8
+1823,Spotlight,negative,10
+1824,Springsteen on Broadway,negative,10
+1825,Spun,negative,4
+1826,Spy Game,negative,7
+1827,Spy Hard,negative,1
+1828,The Spy Next Door,negative,2
+1829,St. Agatha,negative,7
+1830,Stand by Me,negative,10
+1831,Stand Up Guys,negative,4
+1832,Star Trek Generations,negative,5
+1833,Star Trek V - The Final Frontier,negative,3
+1834,Star Wars: The Rise of Skywalker,negative,6
+1835,Stardust Memories,negative,7
+1836,Starman,negative,9
+1837,State Like Sleep,negative,4
+1838,Stateside,negative,3
+1839,Stations of the Cross,negative,10
+1840,Staying Alive,negative,1
+1841,Steal This Movie,negative,6
+1842,Step Up,negative,3
+1843,The Stepford Wives,negative,3
+1844,Stephen King's It,negative,7
+1845,Steve Jobs: Man in the Machine,negative,8
+1846,Steve Martin and Martin Short: An Evening You Will Forget for the Rest of Your Life,negative,10
+1847,Stevie,negative,10
+1848,Stigmata,negative,3
+1849,Stoker,negative,8
+1850,Stonewall,negative,1
+1851,The Stoning of Soraya M.,negative,6
+1852,Stop! Or My Mom Will Shoot,negative,1
+1853,The Story of Us,negative,3
+1854,Strange Wilderness,negative,1
+1855,A Stranger Among Us,negative,3
+1856,Stranger Than Fiction,negative,8
+1857,Stratton,negative,1
+1858,Street Fighter: The Legend of Chun-Li,negative,1
+1859,Stripes,negative,9
+1860,Striptease,negative,2
+1861,Stuber,negative,5
+1862,Stuck,negative,8
+1863,Submergence,negative,3
+1864,Suburbicon,negative,3
+1865,Suicide Squad,negative,3
+1866,The Sum of All Fears,negative,7
+1867,Summer Catch,negative,1
+1868,Summerland,negative,8
+1869,Sunlight Jr.,negative,7
+1870,Superbabies: Baby Geniuses 2,negative,1
+1871,Super Size Me 2: Holy Chicken!,negative,8
+1872,Super Troopers 2,negative,4
+1873,Superman III,negative,3
+1874,Superman IV: The Quest for Peace,negative,2
+1875,Surveillance,negative,6
+1876,Survival of the Dead,negative,4
+1877,Surviving Christmas,negative,1
+1878,Suspect Zero,negative,2
+1879,Sweet Sixteen,negative,10
+1880,The Sweetest Thing,negative,3
+1881,Swimfan,negative,2
+1882,Swimming with Sharks,negative,8
+1883,Switchback,negative,4
+1884,Sympathy for Lady Vengeance,negative,8
+1885,Sympathy for Mr. Vengeance,negative,6
+1886,System Crasher ,negative,10
+1887,Tae Guk Gi: The Brotherhood of War,negative,9
+1888,Taken 3,negative,2
+1889,Taking Sides: Le cas Furtwängler,negative,8
+1890,The Talented Mr. Ripley,negative,9
+1891,Tall Tale,negative,6
+1892,Tamara Drewe,negative,7
+1893,Tango & Cash,negative,4
+1894,Targets,negative,9
+1895,Taxi,negative,1
+1896,Teaching Mrs. Tingle,negative,2
+1897,Ted 2,negative,5
+1898,Teen Wolf,negative,5
+1899,Teenage Mutant Ninja Turtles,negative,3
+1900,Teenage Mutant Ninja Turtles II - The Secret of the Ooze,negative,4
+1901,Teenage Mutant Ninja Turtles III,negative,3
+1902,Tel Aviv on Fire,negative,10
+1903,Tell It to the Bees,negative,6
+1904,Tell Me Who I Am,negative,10
+1905,Tenacious D in The Pick of Destiny,negative,6
+1906,Terminal,negative,3
+1907,Terms of Endearment,negative,8
+1908,Tetro,negative,8
+1909,Texas Chainsaw,negative,2
+1910,The Texas Chainsaw Massacre,negative,4
+1911,The Texas Chainsaw Massacre 2,negative,5
+1912,Thank You for Your Service,negative,8
+1913,That Awkward Moment,negative,3
+1914,La demoiselle d'honneur ,negative,10
+1915,The Eagle,negative,4
+1916,The Evil Dead,negative,10
+1917,The Family That Preys,negative,6
+1918,The Foot Fist Way,negative,6
+1919,The Heart Is Deceitful Above All Things,negative,5
+1920,The Man,negative,2
+1921,The Safety of Objects,negative,6
+1922,The ABCs of Death,negative,4
+1923,The Act Of Killing,negative,10
+1924,The Addams Family,negative,5
+1925,The Adderall Diaries,negative,3
+1926,The Apparition,negative,1
+1927,The Art of Getting By,negative,2
+1928,The Art of Racing in the Rain,negative,5
+1929,The Assignment,negative,4
+1930,The Audition ,negative,8
+1931,The Autopsy of Jane Doe,negative,9
+1932,The Bad Batch,negative,5
+1933,The Ballad of Buster Scruggs,negative,10
+1934,The Band's Visit,negative,10
+1935,The Bay,negative,8
+1936,The Bay of Silence,negative,6
+1937,The Beach Bum,negative,6
+1938,The Beatles: Eight Days a Week - The Touring Years,negative,10
+1939,The Believer,negative,9
+1940,The Big Wedding,negative,1
+1941,The Birth of a Nation,negative,8
+1942,The Bling Ring,negative,6
+1943,The Bodyguard,negative,4
+1944,The Book of Henry,negative,3
+1945,The Boss Baby,negative,6
+1946,The Boy,negative,4
+1947,The Brady Bunch Movie,negative,7
+1948,The Bronze,negative,4
+1949,The Brothers Grimsby,negative,4
+1950,The Campaign,negative,7
+1951,The Captain ,negative,9
+1952,The Cartel,negative,5
+1953,The Change-Up,negative,3
+1954,The Chaser ,negative,9
+1955,The Cherry Orchard,negative,6
+1956,The Children Act,negative,8
+1957,The China Hustle,negative,8
+1958,The Clovehitch Killer,negative,8
+1959,The Collection,negative,4
+1960,The Colony,negative,3
+1961,The Company You Keep,negative,6
+1962,The Crocodile Hunter: Collision Course,negative,6
+1963,The Cured,negative,7
+1964,The Curse of La Llorona,negative,3
+1965,The Dark Tower,negative,2
+1966,The Darkest Minds,negative,2
+1967,The Day Shall Come,negative,7
+1968,The Death of Dick Long,negative,8
+1969,The Death of Stalin,negative,10
+1970,The Descent 2,negative,6
+1971,The Devil Inside,negative,1
+1972,The Devil's Double,negative,6
+1973,The Dinner,negative,5
+1974,The Disappointments Room,negative,1
+1975,The Divergent Series: Allegiant,negative,2
+1976,The Double,negative,3
+1977,The Edge of Democracy,negative,10
+1978,The Equalizer,negative,6
+1979,Evil Dead,negative,7
+1980,The Eyes of My Mother,negative,8
+1981,The Face Of An Angel,negative,4
+1982,The Fall of the House of Usher,negative,10
+1983,The Family,negative,3
+1984,The Family Fang,negative,9
+1985,The Fanatic,negative,2
+1986,The Fearless Vampire Killers,negative,7
+1987,The First Purge,negative,6
+1988,The Flowers of War,negative,5
+1989,The Fluffer,negative,5
+1990,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,negative,10
+1991,The Forest,negative,2
+1992,The Future,negative,8
+1993,The Gallows,negative,2
+1994,The Garden Left Behind,negative,10
+1995,Hemingway's Garden of Eden,negative,1
+1996,The Girl on the Train,negative,5
+1997,The Girl,negative,8
+1998,The Girl Who Kicked the Hornet's Nest,negative,6
+1999,"The Good, the Bad, the Weird ",negative,9
+2000,The Green Inferno,negative,4
+2001,The Grey Zone,negative,7
+2002,The Grudge,negative,5
+2003,The Guest,negative,10
+2004,The Guilt Trip,negative,4
+2005,The Gunman,negative,2
+2006,The Hallow ,negative,8
+2007,The Hateful Eight,negative,8
+2008,The Haunting of Sharon Tate,negative,2
+2009,The Hitman's Bodyguard,negative,5
+2010,The Host,negative,1
+2011,The House of the Devil,negative,9
+2012,The Human Centipede II ,negative,3
+2013,The Humbling,negative,6
+2014,The Hunger Games: Mockingjay - Part 1,negative,7
+2015,The Hunger Games: Mockingjay - Part 2,negative,7
+2016,The Hunter,negative,8
+2017,The Huntsman: Winter's War,negative,2
+2018,The Imitation Game,negative,9
+2019,The Intended,negative,4
+2020,The Internet's Own Boy: The Story of Aaron Swartz,negative,10
+2021,The Internship,negative,4
+2022,The Invisible Man,negative,10
+2023,The Ivory Game,negative,9
+2024,The Kid,negative,5
+2025,The Kid,negative,5
+2026,The Kill Team,negative,10
+2027,The Kindergarten Teacher ,negative,8
+2028,The King,negative,6
+2029,The Last Exorcism Part II,negative,2
+2030,The Last Of Robin Hood,negative,3
+2031,The Last Shot,negative,7
+2032,The Last Witch Hunter,negative,2
+2033,The Laundromat,negative,5
+2034,The Legend of Hercules,negative,1
+2035,The Lego Ninjago Movie,negative,6
+2036,The Little Death,negative,7
+2037,The Lobster,negative,9
+2038,The Loft,negative,2
+2039,The Long Dumb Road,negative,8
+2040,The Long Good Friday,negative,10
+2041,The Longest Ride,negative,4
+2042,The Look of Silence,negative,10
+2043,The Love Letter,negative,4
+2044,The Man Who Killed Hitler and Then The Bigfoot,negative,8
+2045,The Man Who Knew Infinity,negative,7
+2046,The Man With the Iron Fists,negative,6
+2047,The Marriage of Maria Braun ,negative,10
+2048,The Messengers,negative,2
+2049,The Mind's Eye,negative,7
+2050,The Mule,negative,8
+2051,The Night Comes For Us,negative,10
+2052,The Night Listener,negative,5
+2053,The Nightmare,negative,7
+2054,The November Man,negative,4
+2055,The Number 23,negative,1
+2056,The Nut Job,negative,2
+2057,The Nut Job 2: Nutty by Nature,negative,2
+2058,The Odd Life of Timothy Green,negative,4
+2059,The Ones Below,negative,8
+2060,The Oranges,negative,4
+2061,The Other Side of Heaven,negative,4
+2062,The Other Woman,negative,4
+2063,The Package,negative,5
+2064,The Painted Bird,negative,9
+2065,The Painter and the Thief,negative,10
+2066,The Predator,negative,4
+2067,The Prince & Me,negative,3
+2068,The Prodigy,negative,5
+2069,The Professor,negative,2
+2070,The Purge: Anarchy,negative,6
+2071,The Pyramid,negative,2
+2072,The Quiet Ones,negative,4
+2073,The Raven,negative,3
+2074,The Real Dirt on Farmer John,negative,9
+2075,The Riot Club ,negative,7
+2076,The Robber,negative,8
+2077,The Ruins,negative,5
+2078,The Runaways,negative,7
+2079,The Sacrament,negative,7
+2080,The Salesman ,negative,10
+2081,The Samaritan,negative,3
+2082,The Santa Clause 2,negative,6
+2083,The Sea of Trees,negative,2
+2084,The Secret: Dare to Dream,negative,3
+2085,The Secret Life Of Walter Mitty,negative,6
+2086,The Secret Life of Words,negative,7
+2087,The Shallows,negative,8
+2088,The Silence,negative,9
+2089,The Silence,negative,4
+2090,The Single Moms Club,negative,2
+2091,The Sitter,negative,3
+2092,The Smurfs 2,negative,2
+2093,The Snowtown Murders,negative,9
+2094,The Son of No One,negative,2
+2095,The Standoff at Sparrow Creek,negative,8
+2096,The Strange Color of Your Body's Tears,negative,6
+2097,The Strangers,negative,5
+2098,The Strangers: Prey At Night,negative,4
+2099,The Sun Is Also a Star,negative,6
+2100,The Sunset Limited,negative,7
+2101,The Sweeney,negative,5
+2102,The Tillman Story,negative,10
+2103,The Tree,negative,8
+2104,The Tribe,negative,9
+2105,The Upside,negative,5
+2106,The Villainess ,negative,9
+2107,The Virginity Hit,negative,3
+2108,The Voices,negative,8
+2109,The Void,negative,8
+2110,The Wave,negative,7
+2111,The We and the I,negative,8
+2112,The Whistleblower,negative,8
+2113,The Whole Truth,negative,4
+2114,The Wicker Man,negative,9
+2115,The Wicker Man,negative,2
+2116,The Wind Will Carry Us,negative,10
+2117,The Wolverine,negative,8
+2118,The Woman,negative,8
+2119,The Woman in Black 2 Angel of Death,negative,3
+2120,The Wrong Missy,negative,4
+2121,The Young Karl Marx ,negative,7
+2122,Them,negative,7
+2123,Stephen King's 'Thinner',negative,2
+2124,Thirteen,negative,9
+2125,This Is Not a Film,negative,10
+2126,Thor: The Dark World,negative,7
+2127,Thoroughbreds,negative,9
+2128,Three...Extremes ,negative,9
+2129,THX 1138,negative,9
+2130,Tigertail,negative,9
+2131,Till Human Voices Wake Us,negative,3
+2132,Time of the Wolf,negative,7
+2133,Time Regained,negative,8
+2134,Time Share ,negative,9
+2135,Timeline,negative,2
+2136,Tiny Furniture,negative,9
+2137,Rage,negative,2
+2138,Tomorrowland,negative,6
+2139,Tone-Deaf,negative,5
+2140,Too Big to Fail,negative,8
+2141,Tower,negative,10
+2142,The Towering Inferno,negative,7
+2143,Town & Country,negative,2
+2144,The Toxic Avenger,negative,8
+2145,Trailer Park Boys: The Movie,negative,6
+2146,Trainspotting,negative,10
+2147,Traitor,negative,7
+2148,The Transformers - The Movie,negative,6
+2149,Transporter 3,negative,4
+2150,Trash Humpers,negative,6
+2151,The Treatment,negative,7
+2152,Trespass,negative,1
+2153,Trespass Against Us,negative,6
+2154,Triple Frontier,negative,8
+2155,Triumph des Willens ,negative,9
+2156,Trudell,negative,4
+2157,True Stories,negative,8
+2158,The Trumpet of the Swan,negative,2
+2159,Truth,negative,7
+2160,Tulip Fever,negative,2
+2161,Tusk,negative,5
+2162,The TV Set,negative,7
+2163,Twelve,negative,1
+2164,Twelve and Holding,negative,8
+2165,The Twilight Saga: New Moon,negative,3
+2166,Twilight Zone: The Movie,negative,6
+2167,Twin Dragons  ,negative,5
+2168,Twin Peaks - Fire Walk with Me,negative,7
+2169,Twisted,negative,1
+2170,Two Weeks,negative,2
+2171,Tyler Perry's A Fall from Grace,negative,2
+2172,Tyler Perry's A Madea Christmas,negative,3
+2173,Tyler Perry's A Madea Family Funeral,negative,2
+2174,Tyler Perry's Acrimony,negative,2
+2175,Tyler Perry's Good Deeds,negative,4
+2176,Tyrannosaur,negative,9
+2177,Tyrel,negative,7
+2178,The Ugly Truth,negative,2
+2179,The Ultimate Gift,negative,4
+2180,Unbreakable,negative,8
+2181,Uncertainty,negative,6
+2182,Uncut Gems,negative,10
+2183,Under Our Skin,negative,9
+2184,Under Siege 2: Dark Territory,negative,4
+2185,Underdog,negative,2
+2186,Unfinished Business,negative,2
+2187,Unfriended,negative,7
+2188,The Uninvited,negative,4
+2189,The United States of Leland,negative,4
+2190,Universal Soldier: Day of Reckoning,negative,6
+2191,Universal Soldier: The Return,negative,1
+2192,Unlocked,negative,3
+2193,Unplanned,negative,5
+2194,Unstrung Heroes,negative,8
+2195,Untamed Heart,negative,6
+2196,,negative,7
+2197,Client 9: The Rise and Fall of Eliot Spitzer,negative,10
+2198,Untouchable,negative,9
+2199,Up in Smoke,negative,5
+2200,Uptown Girls,negative,2
+2201,Urban Legends: Final Cut,negative,1
+2202,U.S. Marshals,negative,3
+2203,The Usual Suspects,negative,9
+2204,Vacancy,negative,6
+2205,Valentine,negative,2
+2206,Valhalla Rising,negative,8
+2207,Vampire Academy,negative,2
+2208,Vampire in Brooklyn,negative,2
+2209,Cirque du Freak: The Vampire's Assistant,negative,4
+2210,Vampyr - Der Traum des Allan Grey,negative,10
+2211,Van Helsing,negative,3
+2212,Van Wilder: The Rise of Taj ,negative,1
+2213,Vanilla Sky,negative,5
+2214,Varsity Blues,negative,5
+2215,Vatel,negative,4
+2216,Velvet Goldmine,negative,6
+2217,Venom,negative,4
+2218,Vertigo,negative,10
+2219,Very Bad Things,negative,5
+2220,A Very Harold & Kumar Christmas,negative,7
+2221,V/H/S: Viral,negative,4
+2222,Vice,negative,1
+2223,Videodrome,negative,9
+2224,View from the Top,negative,2
+2225,A View to a Kill,negative,4
+2226,The Village,negative,5
+2227,The Virgin Suicides,negative,8
+2228,Viva Riva!,negative,9
+2229,Voice from the Stone,negative,4
+2230,Vulgar,negative,3
+2231,Wag the Dog,negative,9
+2232,Waist Deep,negative,3
+2233,Waiting for Guffman,negative,10
+2234,Waiting for Superman,negative,10
+2235,Waiting for the Barbarians,negative,6
+2236,Waiting to Exhale,negative,6
+2237,Walk Of Shame,negative,2
+2238,A Walk to Remember,negative,3
+2239,Walking on Sunshine,negative,4
+2240,Walking With Dinosaurs,negative,3
+2241,War ,negative,2
+2242,Warcraft,negative,3
+2243,Wasabi,negative,5
+2244,Wassup Rockers,negative,4
+2245,Water,negative,10
+2246,Waterworld,negative,5
+2247,Waves,negative,9
+2248,We Don't Live Here Anymore,negative,7
+2249,Web Junkie,negative,8
+2250,The Wedding Date,negative,2
+2251,Weekend at Bernie's II,negative,2
+2252,Weirdsville,negative,6
+2253,We're The Millers,negative,5
+2254,West of Memphis,negative,10
+2255,What Lies Beneath,negative,5
+2256,What Maisie Knew,negative,9
+2257,What Richard Did,negative,10
+2258,What We Did on Our Holiday,negative,8
+2259,Whatever Works,negative,6
+2260,What's Cooking?,negative,6
+2261,What's Eating Gilbert Grape,negative,10
+2262,What's Your Number?,negative,3
+2263,When the Bough Breaks,negative,2
+2264,Where in the World Is Osama Bin Laden?,negative,4
+2265,Where Is Kyra?,negative,9
+2266,Where the Truth Lies,negative,5
+2267,Where's My Roy Cohn?,negative,9
+2268,Whipped,negative,2
+2269,Whiskey Tango Foxtrot,negative,7
+2270,White Chicks,negative,2
+2271,The White Countess,negative,5
+2272,White Heat,negative,10
+2273,White House Down,negative,6
+2274,The White Ribbon ,negative,9
+2275,Whitney,negative,9
+2276,Who Killed Nancy?,negative,4
+2277,Who Killed the Electric Car?,negative,9
+2278,Who's Afraid of Virginia Woolf?,negative,10
+2279,Who's Your Caddy?,negative,1
+2280,Why Don't You Play in Hell?,negative,9
+2281,Why Him?,negative,4
+2282,Wicker Park,negative,3
+2283,Wild Hogs,negative,2
+2284,Willard,negative,7
+2285,Willow Creek,negative,9
+2286,Wind Chill,negative,5
+2287,The Wind That Shakes the Barley,negative,10
+2288,Wing Commander,negative,2
+2289,Winnie the Pooh,negative,10
+2290,Winter Solstice,negative,7
+2291,Winter's Tale,negative,2
+2292,Wish Upon,negative,2
+2293,Witless Protection,negative,1
+2294,Wolf Creek,negative,6
+2295,Wolf Creek 2,negative,6
+2296,Wolfen,negative,8
+2297,Wolke Neun ,negative,9
+2298,Woman Thou Art Loosed,negative,6
+2299,Woman Walks Ahead,negative,6
+2300,Wonder,negative,9
+2301,The Woodsman,negative,9
+2302,Wrong,negative,7
+2303,Wrong Turn,negative,5
+2304,The X-Files: I Want to Believe ,negative,4
+2305,Xanadu,negative,3
+2306,xXx: Return of Xander Cage,negative,5
+2307,Year One,negative,2
+2308,Yella,negative,9
+2309,Yogi Bear,negative,2
+2310,Yonkers Joe,negative,6
+2311,You Don't Mess With the Zohan,negative,4
+2312,The Young Victoria,negative,8
+2313,Your Friends & Neighbors,negative,8
+2314,"Yours, Mine & Ours",negative,1
+2315,Yu-Gi-Oh!: The Movie,negative,1
+2316,Z For Zachariah,negative,8
+2317,Zaytoun,negative,5
+2318,Zero Days,negative,10
+2319,Zerophilia,negative,3
+2320,Zombeavers,negative,7
+2321,Zombie Strippers,negative,4
+2322,Zookeeper,negative,2

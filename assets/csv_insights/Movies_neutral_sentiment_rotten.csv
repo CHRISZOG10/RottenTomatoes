@@ -1,0 +1,509 @@
+,movie_title,sentiment,tomatometer_rating
+0,When Do We Eat?,neutral,5
+1,Meeting Resistance,neutral,9
+2,An American Affair,neutral,2
+3,The Last Song,neutral,3
+4,The Big Sleep,neutral,10
+5,Cape Fear,neutral,10
+6,A Christmas Story,neutral,9
+7,Creature from the Black Lagoon,neutral,8
+8,Death in Venice,neutral,8
+9,Gloria,neutral,10
+10,The Ladykillers,neutral,10
+11,Phantom Of The Opera,neutral,10
+12,Piranha,neutral,7
+13,Prom Night,neutral,5
+14,The Red Shoes,neutral,10
+15,Rocky,neutral,10
+16,Romeo and Juliet,neutral,10
+17,Shaft,neutral,9
+18,Suspicion,neutral,10
+19,Leap of Faith,neutral,7
+20,The Mask,neutral,8
+21,Shallow Grave,neutral,7
+22,Richard III,neutral,10
+23,The Rock,neutral,7
+24,Bulletproof,neutral,1
+25,Ransom,neutral,8
+26,Volcano,neutral,6
+27,Batman & Robin,neutral,2
+28,Steel,neutral,2
+29,The Avengers,neutral,1
+30,An Ideal Husband,neutral,9
+31,Man on the Moon,neutral,7
+32,Eye of the Beholder,neutral,1
+33,Get Carter,neutral,2
+34,Blow Dry,neutral,2
+35,The Brothers,neutral,7
+36,On the Line,neutral,2
+37,Enigma,neutral,8
+38,Joshua,neutral,3
+39,Trapped,neutral,2
+40,Cabin Fever,neutral,7
+41,The Reckoning,neutral,4
+42,The Terminal,neutral,7
+43,Hostage,neutral,4
+44,Breakfast on Pluto,neutral,6
+45,Hoodwinked,neutral,5
+46,Cavite,neutral,8
+47,Driving Lessons,neutral,5
+48,Conversations With God,neutral,1
+49,Take,neutral,5
+50,Mad Money,neutral,3
+51,Hell Ride,neutral,2
+52,Trumbo,neutral,9
+53,Encounters at the End of the World,neutral,10
+54,Cloudy With a Chance of Meatballs,neutral,9
+55,Mirrors,neutral,2
+56,The 11th Hour,neutral,7
+57,17 Again,neutral,6
+58,Easy Virtue,neutral,6
+59,Howl,neutral,7
+60,The End of the Line,neutral,8
+61,The Collector,neutral,3
+62,We Live in Public,neutral,9
+63,Blind Date,neutral,4
+64,20th Century Women,neutral,9
+65,22 July,neutral,9
+66,3-Iron,neutral,9
+67,40 Days and 40 Nights,neutral,4
+68,54,neutral,2
+69,$9.99,neutral,8
+70,A Hologram for the King,neutral,8
+71,A Man Called Ove ,neutral,10
+72,A Very Long Engagement,neutral,8
+73,Ace Ventura - When Nature Calls,neutral,4
+74,Action Point,neutral,2
+75,Adore,neutral,4
+76,The Adventures of Rocky & Bullwinkle,neutral,5
+77,Afflicted,neutral,9
+78,After Tiller,neutral,10
+79,Alex Rider: Operation Stormbreaker,neutral,4
+80,All the Queen's Men,neutral,1
+81,Alvin and the Chipmunks: The Road Chip,neutral,2
+82,An Evening with Beverly Luff Linn,neutral,6
+83,And Now Ladies & Gentlemen,neutral,5
+84,Annie,neutral,3
+85,Ant-Man and the Wasp,neutral,9
+86,Apt Pupil,neutral,6
+87,Are We Done Yet?,neutral,1
+88,Around the World in 80 Days,neutral,4
+89,The Asphalt Jungle,neutral,10
+90,The Assassination of Jesse James by the Coward Robert Ford,neutral,8
+91,Assault on Precinct 13,neutral,6
+92,Assisted Living,neutral,8
+93,The Atomic Cafe,neutral,10
+94,Austin Powers in Goldmember,neutral,6
+95,The Barbarian Invasions ,neutral,9
+96,Batman: The Movie,neutral,8
+97,Battleship Potemkin,neutral,10
+98,Beautiful Losers,neutral,7
+99,Between Two Ferns: The Movie,neutral,8
+100,Beyond the Sea,neutral,5
+101,Bicycle Thieves  ,neutral,10
+102,Birthday Girl,neutral,6
+103,Biutiful,neutral,7
+104,Blackfish,neutral,10
+105,BlacKkKlansman,neutral,10
+106,Bodied,neutral,9
+107,Boogeyman,neutral,2
+108,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,neutral,10
+109,Born To Be Blue,neutral,9
+110,Bottle Rocket,neutral,9
+111,The Bourne Supremacy,neutral,9
+112,Brahms: The Boy II,neutral,1
+113,Brightburn,neutral,6
+114,Brokedown Palace,neutral,4
+115,Broken Embraces,neutral,9
+116,Brooklyn's Finest,neutral,5
+117,The Bucket List,neutral,5
+118,Bugsy,neutral,9
+119,Cabin Fever,neutral,1
+120,California Typewriter,neutral,10
+121,Camp,neutral,7
+122,Captain America: Civil War,neutral,10
+123,Captain Ron,neutral,3
+124,Cassandra's Dream,neutral,5
+125,Catch That Kid,neutral,2
+126,CBGB,neutral,1
+127,Central Station ,neutral,10
+128,The Changeling,neutral,9
+129,Charlie's Angels - Full Throttle,neutral,5
+130,Chasing Liberty,neutral,2
+131,Chéri,neutral,6
+132,A Chorus Line,neutral,5
+133,Cinema Paradiso ,neutral,10
+134,Circumstance,neutral,9
+135,City of Ghosts,neutral,5
+136,City Slickers 2 - The Legend of Curly's Gold,neutral,2
+137,Claire's Camera ,neutral,9
+138,Conan the Destroyer,neutral,3
+139,Tim Burton's Corpse Bride,neutral,9
+140,The Corruptor,neutral,5
+141,Crazy in Alabama,neutral,4
+142,The Crime of Padre Amaro,neutral,7
+143,"Crna macka, beli macor ",neutral,9
+144,CSA: The Confederate States of America,neutral,9
+145,Dallas Buyers Club,neutral,10
+146,Danger Close,neutral,8
+147,Darkest Hour,neutral,9
+148,Darkness Falls,neutral,1
+149,Dead Calm,neutral,9
+150,Deathgasm,neutral,9
+151,The Deep End,neutral,9
+152,De-Lovely,neutral,5
+153,Desert Bayou,neutral,8
+154,Desert Dancer,neutral,4
+155,Diablo,neutral,2
+156,Disappearances,neutral,6
+157,Dog Eat Dog,neutral,6
+158,Dolores Claiborne,neutral,9
+159,Don Jon,neutral,8
+160,Dr. Dolittle,neutral,5
+161,Drop Dead Fred,neutral,2
+162,Dumbstruck,neutral,8
+163,Duplex,neutral,4
+164,Edge of Seventeen,neutral,8
+165,Elephant,neutral,8
+166,Elizabethtown,neutral,3
+167,Ellie Parker,neutral,6
+168,A Royal Affair,neutral,10
+169,End of the Century: The Story of the Ramones,neutral,10
+170,End of the Spear,neutral,5
+171,Enter the Void ,neutral,8
+172,Escape Plan 2: Hades,neutral,1
+173,Expired,neutral,6
+174,Factory Girl,neutral,3
+175,Fail-Safe,neutral,10
+176,Family Plot,neutral,10
+177,"Farewell, My Queen",neutral,10
+178,Feel the Noise,neutral,2
+179,Fever Pitch,neutral,7
+180,Fifty Shades Freed,neutral,2
+181,Flightplan,neutral,4
+182,The Flying Scotsman,neutral,6
+183,The Fog,neutral,1
+184,Four Weddings and a Funeral,neutral,10
+185,Fracture,neutral,8
+186,Free Willy 2: The Adventure Home,neutral,6
+187,Friday the 13th - The Final Chapter,neutral,3
+188,Funny Girl,neutral,10
+189,Gemma Bovery,neutral,6
+190,Gentlemen Broncos,neutral,2
+191,G.I. Jane,neutral,6
+192,Girl,neutral,9
+193,Giuliani Time,neutral,9
+194,Give Me Liberty,neutral,9
+195,Gomorrah ,neutral,10
+196,Gonzo: The Life and Work of Hunter S. Thompson,neutral,9
+197,Good Dick,neutral,6
+198,Goodbye Lover,neutral,3
+199,Goon,neutral,9
+200,Gossip,neutral,3
+201,Gotti,neutral,1
+202,The Graduate,neutral,9
+203,Greta,neutral,7
+204,Guns Akimbo,neutral,6
+205,Guy and Madeline on a Park Bench,neutral,10
+206,Halloween III: Season of the Witch,neutral,5
+207,Hannah Arendt,neutral,9
+208,Hannibal Rising,neutral,2
+209,Harpoon,neutral,10
+210,Haunt,neutral,8
+211,Head of State,neutral,4
+212,Here Comes the Devil,neutral,5
+213,Highlander 2: The Quickening,neutral,1
+214,Homecoming: A Film by Beyoncé,neutral,10
+215,Hooking Up,neutral,4
+216,Hotel,neutral,5
+217,How Green Was My Valley,neutral,9
+218,How to Deal,neutral,3
+219,How to Eat Fried Worms,neutral,7
+220,How to Talk to Girls at Parties,neutral,5
+221,Humpday,neutral,8
+222,I Am A Sex Addict,neutral,7
+223,I Am Chris Farley,neutral,8
+224,I Am Trying to Break Your Heart,neutral,9
+225,Identity,neutral,7
+226,In My Country,neutral,3
+227,In the Mix,neutral,2
+228,In the Name of the Father,neutral,10
+229,In the Shadow of the Moon,neutral,10
+230,Incarnate,neutral,2
+231,Indecent Proposal,neutral,4
+232,Inside Job,neutral,10
+233,Insurgent,neutral,3
+234,It Came from Outer Space,neutral,8
+235,It Happened One Night,neutral,10
+236,It Runs in the Family,neutral,3
+237,Ixcanul,neutral,10
+238,The Jackal,neutral,3
+239,Jane Got a Gun,neutral,5
+240,Jay & Silent Bob Reboot,neutral,7
+241,Jimmy Neutron - Boy Genius,neutral,8
+242,John Carpenter's Vampires,neutral,5
+243,John Q,neutral,3
+244,Joshua,neutral,7
+245,Joyeux Noël ,neutral,8
+246,Joyful Noise,neutral,4
+247,Jump Tomorrow,neutral,9
+248,The Juror,neutral,2
+249,Justin Bieber: Never Say Never,neutral,7
+250,Kama Sutra: A Tale of Love,neutral,5
+251,Keanu,neutral,8
+252,The Kentucky Fried Movie,neutral,9
+253,Kill List,neutral,8
+254,Killer Elite,neutral,3
+255,Knight of Cups,neutral,5
+256,Knockaround Guys,neutral,3
+257,Knuckle,neutral,10
+258,La Belle Noiseuse,neutral,10
+259,La Femme Nikita ,neutral,9
+260,Labor Day,neutral,4
+261,Ladder 49,neutral,5
+262,The Lady Eve,neutral,10
+263,Lagaan: Once Upon a Time in India,neutral,10
+264,Land of Mine ,neutral,10
+265,Lantana,neutral,10
+266,Last Days,neutral,6
+267,Last Days In The Desert,neutral,8
+268,Latter Days,neutral,5
+269,Layer Cake,neutral,9
+270,The Legend of Zorro,neutral,3
+271,The Libertine,neutral,4
+272,The Limey,neutral,10
+273,Live-In Maid,neutral,10
+274,Logan's Run,neutral,7
+275,Look Who's Talking Now,neutral,1
+276,Looking Glass,neutral,3
+277,Lore,neutral,10
+278,The Loss of a Teardrop Diamond,neutral,3
+279,Lost Transmissions,neutral,6
+280,Love Me if You Dare,neutral,5
+281,"Lucia, Lucia",neutral,5
+282,Made in Dagenham,neutral,9
+283,Madison,neutral,4
+284,Man of Tai Chi,neutral,8
+285,Man on Wire,neutral,10
+286,Manakamana,neutral,10
+287,Manda Bala ,neutral,9
+288,Marebito,neutral,5
+289,Martian Child,neutral,4
+290,Maryam,neutral,8
+291,Masked and Anonymous,neutral,3
+292,Match Point,neutral,8
+293,Max,neutral,7
+294,Max Payne,neutral,2
+295,Me and You and Everyone We Know,neutral,9
+296,Mea Maxima Culpa: Silence In The House Of God,neutral,10
+297,Memento,neutral,10
+298,Memoir of War ,neutral,7
+299,"Men, Women & Children",neutral,4
+300,Merchants Of Doubt,neutral,9
+301,Message in a Bottle,neutral,4
+302,Mia Madre,neutral,9
+303,Miami Blues,neutral,9
+304,Mickey Blue Eyes,neutral,5
+305,Midnighters,neutral,9
+306,The Milk of Sorrow ,neutral,8
+307,Million Dollar Baby,neutral,10
+308,Miracle,neutral,9
+309,Miss Julie,neutral,6
+310,Miss Sloane,neutral,8
+311,Mississippi Grind,neutral,10
+312,Mo' Money,neutral,2
+313,Mom and Dad Save the World,neutral,1
+314,Moms' Night Out,neutral,3
+315,Mother's Day,neutral,1
+316,The Mothman Prophecies,neutral,6
+317,Mr. Holland's Opus,neutral,8
+318,Mr. Smith Goes to Washington,neutral,10
+319,My Dinner with Hervé,neutral,9
+320,My Favorite Martian,neutral,2
+321,My Friend Dahmer,neutral,9
+322,My Golden Days ,neutral,9
+323,My Kid Could Paint That,neutral,10
+324,My Name Is Khan,neutral,9
+325,My Week with Marilyn,neutral,9
+326,Naqoyqatsi ,neutral,5
+327,NASCAR: The IMAX Experience,neutral,7
+328,National Lampoon's Animal House,neutral,10
+329,Neon Bull ,neutral,9
+330,The Next Best Thing,neutral,2
+331,Nine Lives,neutral,2
+332,Nostalgia ,neutral,9
+333,The Notorious Bettie Page,neutral,6
+334,Old Joy,neutral,9
+335,Our House,neutral,7
+336,Our Lady of the Assassins,neutral,8
+337,Outside Providence,neutral,6
+338,Panic Room,neutral,8
+339,Paris Is Burning,neutral,10
+340,Patch Adams,neutral,3
+341,Paul Blart: Mall Cop 2,neutral,1
+342,Pet Sematary,neutral,6
+343,Phone Booth,neutral,8
+344,Piranhas ,neutral,6
+345,The Pirates Who Don't Do Anything: A VeggieTales Movie,neutral,5
+346,Pokémon 4Ever,neutral,2
+347,Pompeii,neutral,3
+348,Predator 2,neutral,4
+349,Pretty Woman,neutral,7
+350,The Princess Diaries 2 - Royal Engagement,neutral,3
+351,Pushing Tin,neutral,5
+352,Rampart,neutral,8
+353,[REC] 3 Genesis,neutral,5
+354,Red Road,neutral,9
+355,Reservoir Dogs,neutral,10
+356,Resurrecting the Champ,neutral,7
+357,Return to Me,neutral,7
+358,Ride Along,neutral,2
+359,Riding the Bullet,neutral,3
+360,Rize,neutral,9
+361,Robin Hood: Men in Tights,neutral,5
+362,Robots,neutral,7
+363,Rock Star,neutral,6
+364,Roman Polanski: Wanted and Desired,neutral,9
+365,Roxanne,neutral,9
+366,Rumor Has It,neutral,2
+367,Runaway Bride,neutral,5
+368,Rush Hour,neutral,7
+369,Safety Last!,neutral,10
+370,Sangre De Mi Sangre,neutral,8
+371,Santa Claus Conquers the Martians,neutral,3
+372,Saving Shiloh,neutral,4
+373,Secondhand Lions,neutral,7
+374,Secretary,neutral,8
+375,Senna,neutral,10
+376,Session 9,neutral,7
+377,Shadows and Fog,neutral,6
+378,The Shaggy Dog,neutral,3
+379,Shocker,neutral,3
+380,Short Term 12,neutral,10
+381,Shrek Forever After,neutral,6
+382,Signs,neutral,8
+383,Simply Irresistible,neutral,2
+384,So Close,neutral,9
+385,Avaze gonjeshk-ha ,neutral,10
+386,Spanglish,neutral,6
+387,Spectre,neutral,7
+388,Spy Kids 3-D - Game Over,neutral,5
+389,Spy Kids: All the Time in the World in 4D,neutral,3
+390,Stand and Deliver,neutral,9
+391,Star Trek: The Motion Picture,neutral,5
+392,Stargate,neutral,6
+393,Stepmom,neutral,5
+394,Straw Dogs,neutral,5
+395,Street Kings,neutral,4
+396,L'Heure d'été ,neutral,10
+397,Suspiria,neutral,7
+398,Swamp Thing,neutral,7
+399,The Sweet Hereafter,neutral,10
+400,Swerve,neutral,4
+401,Tea With the Dames ,neutral,10
+402,Team America: World Police,neutral,8
+403,Terminator Genisys,neutral,3
+404,That Evening Sun,neutral,9
+405,The Adventures of Sharkboy and Lavagirl in 3-D,neutral,2
+406,The Killing of John Lennon,neutral,4
+407,The 33,neutral,5
+408,The Call,neutral,5
+409,The Celestine Prophecy,neutral,1
+410,The Conformist,neutral,10
+411,The Emoji Movie,neutral,1
+412,The Flood,neutral,7
+413,The Front Runner,neutral,7
+414,The Future of Food,neutral,9
+415,The Glass Castle,neutral,6
+416,The Ground Truth,neutral,9
+417,The Hobbit: An Unexpected Journey,neutral,7
+418,The Hole in the Ground,neutral,9
+419,The Hunt ,neutral,10
+420,The Killing of a Sacred Deer,neutral,9
+421,The Kindergarten Teacher,neutral,10
+422,The King of Staten Island,neutral,8
+423,The Lady,neutral,4
+424,The Last Movie Star,neutral,6
+425,The Last Starfighter,neutral,8
+426,The Last Suit ,neutral,8
+427,The Lords of Salem,neutral,5
+428,The Mercy,neutral,8
+429,The Miseducation of Cameron Post,neutral,9
+430,The Mortal Instruments: City of Bones,neutral,2
+431,The Pillow Book,neutral,7
+432,The Rachel Divide,neutral,8
+433,The Return,neutral,10
+434,The Snowman,neutral,1
+435,The Song of Sway Lake,neutral,5
+436,The Square ,neutral,10
+437,The Star,neutral,5
+438,The Tax Collector,neutral,2
+439,The Tomorrow Man,neutral,5
+440,The Tree of Life,neutral,9
+441,The War Within,neutral,8
+442,The Week Of,neutral,3
+443,The Wretched,neutral,8
+444,The Young Unknown,neutral,2
+445,There's Something About Mary,neutral,9
+446,The Thing About My Folks,neutral,5
+447,Things to Do in Denver When You're Dead,neutral,4
+448,This Is England,neutral,10
+449,This Is Where I Leave You,neutral,5
+450,Thunderbirds,neutral,2
+451,Tideland,neutral,4
+452,The Time Traveler's Wife,neutral,4
+453,Tinker Tailor Soldier Spy,neutral,9
+454,To Have and Have Not,neutral,10
+455,To the Bone,neutral,8
+456,Tom Jones,neutral,9
+457,Tomcats,neutral,2
+458,Total Recall,neutral,9
+459,Touch The Sound,neutral,9
+460,Transcendence,neutral,2
+461,Transit,neutral,10
+462,Trembling Before G-d,neutral,9
+463,Troll 2,neutral,1
+464,Trust,neutral,8
+465,Tuck Everlasting,neutral,7
+466,Turbo: A Power Rangers Movie,neutral,2
+467,Twentynine Palms,neutral,5
+468,Oligarkh  ,neutral,5
+469,Umberto D,neutral,10
+470,Una,neutral,8
+471,Underworld,neutral,4
+472,Underworld: Evolution,neutral,2
+473,Unsane,neutral,9
+474,Up and Down  ,neutral,9
+475,Up for Grabs,neutral,10
+476,Urban Legend,neutral,3
+477,Va Savoir,neutral,9
+478,Vacation,neutral,3
+479,Valentine's Day,neutral,2
+480,Valentino: The Last Emperor,neutral,8
+481,Vampire's Kiss,neutral,7
+482,Vegas Vacation,neutral,2
+483,Venus,neutral,9
+484,Verdict on Auschwitz: The Frankfurt Trial 1963-1965,neutral,10
+485,Victoria & Abdul,neutral,7
+486,Virtuosity,neutral,4
+487,Volver,neutral,10
+488,Waking Up in Reno,neutral,2
+489,The Watcher,neutral,2
+490,We Are Your Friends,neutral,4
+491,The Weight of Water,neutral,4
+492,Wendy and Lucy,neutral,9
+493,When Will I Be Loved,neutral,4
+494,Where Hands Touch,neutral,5
+495,Where the Buffalo Roam,neutral,2
+496,Where to Invade Next,neutral,8
+497,White Material,neutral,9
+498,White Noise,neutral,1
+499,Wildling,neutral,8
+500,Winged Migration,neutral,10
+501,Winter Passing,neutral,5
+502,Wish I Was Here,neutral,5
+503,With Honors,neutral,2
+504,Wizards,neutral,6
+505,Woodshock,neutral,3
+506,XX/XY,neutral,5
+507,Zodiac,neutral,9
